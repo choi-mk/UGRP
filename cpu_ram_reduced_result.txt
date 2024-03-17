@@ -1,0 +1,7626 @@
+Record Time: 2.814615 sec
+Total Reserved Memory: 0 MB
+Total Used Memory: 0 MB
+System Used Memory: 0 MB
+CPU mainthread time: 0.0 ms
+
+Record Time: 2.854058 sec
+Total Reserved Memory: 143 MB
+Total Used Memory: 677 MB
+System Used Memory: 677 MB
+CPU mainthread time: 96.2 ms
+
+Record Time: 2.874019 sec
+Total Reserved Memory: 145 MB
+Total Used Memory: 679 MB
+System Used Memory: 679 MB
+CPU mainthread time: 24.4 ms
+
+Record Time: 2.882113 sec
+Total Reserved Memory: 145 MB
+Total Used Memory: 679 MB
+System Used Memory: 679 MB
+CPU mainthread time: 10.5 ms
+
+Record Time: 2.898726 sec
+Total Reserved Memory: 145 MB
+Total Used Memory: 679 MB
+System Used Memory: 679 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 2.915595 sec
+Total Reserved Memory: 145 MB
+Total Used Memory: 679 MB
+System Used Memory: 679 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 2.932417 sec
+Total Reserved Memory: 145 MB
+Total Used Memory: 679 MB
+System Used Memory: 679 MB
+CPU mainthread time: 17.0 ms
+
+Record Time: 2.949233 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 680 MB
+System Used Memory: 680 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 2.965553 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 2.982285 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.2 ms
+
+Record Time: 2.998898 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.01562 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.033421 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 17.8 ms
+
+Record Time: 3.048978 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 15.8 ms
+
+Record Time: 3.06532 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 3.08182 sec
+Total Reserved Memory: 146 MB
+Total Used Memory: 680 MB
+System Used Memory: 680 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.098822 sec
+Total Reserved Memory: 147 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.115576 sec
+Total Reserved Memory: 147 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.132009 sec
+Total Reserved Memory: 147 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.148612 sec
+Total Reserved Memory: 147 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.165322 sec
+Total Reserved Memory: 147 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.181608 sec
+Total Reserved Memory: 147 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.198898 sec
+Total Reserved Memory: 147 MB
+Total Used Memory: 681 MB
+System Used Memory: 681 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.215579 sec
+Total Reserved Memory: 149 MB
+Total Used Memory: 683 MB
+System Used Memory: 683 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.231927 sec
+Total Reserved Memory: 149 MB
+Total Used Memory: 683 MB
+System Used Memory: 683 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 3.248773 sec
+Total Reserved Memory: 149 MB
+Total Used Memory: 683 MB
+System Used Memory: 683 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.267121 sec
+Total Reserved Memory: 149 MB
+Total Used Memory: 683 MB
+System Used Memory: 683 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.28155 sec
+Total Reserved Memory: 149 MB
+Total Used Memory: 683 MB
+System Used Memory: 683 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.29856 sec
+Total Reserved Memory: 149 MB
+Total Used Memory: 683 MB
+System Used Memory: 683 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.315408 sec
+Total Reserved Memory: 151 MB
+Total Used Memory: 685 MB
+System Used Memory: 685 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.332282 sec
+Total Reserved Memory: 151 MB
+Total Used Memory: 685 MB
+System Used Memory: 685 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.34871 sec
+Total Reserved Memory: 151 MB
+Total Used Memory: 685 MB
+System Used Memory: 685 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.365492 sec
+Total Reserved Memory: 151 MB
+Total Used Memory: 685 MB
+System Used Memory: 685 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.38158 sec
+Total Reserved Memory: 151 MB
+Total Used Memory: 686 MB
+System Used Memory: 686 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 3.398876 sec
+Total Reserved Memory: 151 MB
+Total Used Memory: 686 MB
+System Used Memory: 686 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.415324 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 688 MB
+System Used Memory: 688 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.432228 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 688 MB
+System Used Memory: 688 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 3.448667 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 688 MB
+System Used Memory: 688 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.465387 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 688 MB
+System Used Memory: 688 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.481624 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 688 MB
+System Used Memory: 688 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.498717 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 688 MB
+System Used Memory: 688 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.5155 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 689 MB
+System Used Memory: 689 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.532263 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 689 MB
+System Used Memory: 689 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 3.548634 sec
+Total Reserved Memory: 153 MB
+Total Used Memory: 689 MB
+System Used Memory: 689 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.565307 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 692 MB
+System Used Memory: 692 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.581577 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 692 MB
+System Used Memory: 692 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.598891 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 692 MB
+System Used Memory: 692 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.615489 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 692 MB
+System Used Memory: 692 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 3.632035 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 692 MB
+System Used Memory: 692 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.648717 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 692 MB
+System Used Memory: 692 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.665626 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 692 MB
+System Used Memory: 692 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.681752 sec
+Total Reserved Memory: 157 MB
+Total Used Memory: 693 MB
+System Used Memory: 693 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.698596 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.715341 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.732059 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.74858 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.765319 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.782373 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.799203 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 3.816088 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 17.1 ms
+
+Record Time: 3.832418 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.1 ms
+
+Record Time: 3.848826 sec
+Total Reserved Memory: 162 MB
+Total Used Memory: 697 MB
+System Used Memory: 697 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 3.864898 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 704 MB
+System Used Memory: 704 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.882181 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 704 MB
+System Used Memory: 704 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.898658 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 704 MB
+System Used Memory: 704 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.915329 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.932076 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.948726 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.964867 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 3.981968 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 3.998662 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.015374 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.032058 sec
+Total Reserved Memory: 168 MB
+Total Used Memory: 705 MB
+System Used Memory: 705 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.048643 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 713 MB
+System Used Memory: 713 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 4.064851 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 713 MB
+System Used Memory: 713 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.082162 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 713 MB
+System Used Memory: 713 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.098638 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.11536 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.132104 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.148974 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.164793 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 4.182159 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.198743 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.215405 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.232007 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.248809 sec
+Total Reserved Memory: 177 MB
+Total Used Memory: 714 MB
+System Used Memory: 714 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.264746 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.2823 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 4.299957 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.315815 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.332143 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.348761 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.364919 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.382255 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.399023 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 4.415337 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.432178 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.448731 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.464855 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.482037 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.49859 sec
+Total Reserved Memory: 188 MB
+Total Used Memory: 726 MB
+System Used Memory: 726 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.51546 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.532027 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.548808 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.564763 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.582105 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.599041 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.61547 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.63192 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.648561 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.664781 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.681975 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.698587 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.715375 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.732 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.748658 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.764784 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 741 MB
+System Used Memory: 741 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 4.782086 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 742 MB
+System Used Memory: 742 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.79987 sec
+Total Reserved Memory: 203 MB
+Total Used Memory: 742 MB
+System Used Memory: 742 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.815462 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.832951 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 17.2 ms
+
+Record Time: 4.848599 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.0 ms
+
+Record Time: 4.864886 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.882251 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 4.89883 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 4.915277 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.931927 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 4.948638 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.96479 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 4.982102 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 4.998847 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.015168 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 5.032094 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.048796 sec
+Total Reserved Memory: 219 MB
+Total Used Memory: 758 MB
+System Used Memory: 758 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 5.064803 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.081951 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.098542 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.115477 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.132036 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.148838 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.164823 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.182275 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.198738 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.215239 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 5.232086 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.248738 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.264949 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.282059 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.299385 sec
+Total Reserved Memory: 235 MB
+Total Used Memory: 774 MB
+System Used Memory: 774 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.31594 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 5.332013 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 5.348807 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.364955 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.38203 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.398873 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.415418 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 5.432185 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.448697 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.464772 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 790 MB
+System Used Memory: 790 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.482196 sec
+Total Reserved Memory: 251 MB
+Total Used Memory: 791 MB
+System Used Memory: 791 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 5.498987 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.51534 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 5.532078 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.548676 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.564791 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.582105 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.598659 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.615272 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.631898 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.648689 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.66487 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.681999 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.698601 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.715316 sec
+Total Reserved Memory: 267 MB
+Total Used Memory: 807 MB
+System Used Memory: 807 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.731872 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.748657 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.764678 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 5.781985 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 5.799521 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.815608 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 5.832101 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 5.848774 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.864943 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.882005 sec
+Total Reserved Memory: 283 MB
+Total Used Memory: 823 MB
+System Used Memory: 823 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.901914 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 839 MB
+System Used Memory: 839 MB
+CPU mainthread time: 19.8 ms
+
+Record Time: 5.915486 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 13.5 ms
+
+Record Time: 5.932226 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.948781 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.964831 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 5.982102 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 5.998702 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.015265 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.032004 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.048641 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 838 MB
+System Used Memory: 838 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.064885 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 839 MB
+System Used Memory: 839 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.082024 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 839 MB
+System Used Memory: 839 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.098696 sec
+Total Reserved Memory: 299 MB
+Total Used Memory: 839 MB
+System Used Memory: 839 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.115251 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 6.132175 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.148577 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.164723 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.182141 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.19853 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 6.215339 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.231953 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 6.248749 sec
+Total Reserved Memory: 315 MB
+Total Used Memory: 855 MB
+System Used Memory: 855 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.270342 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 871 MB
+System Used Memory: 871 MB
+CPU mainthread time: 22.1 ms
+
+Record Time: 6.281938 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 871 MB
+System Used Memory: 871 MB
+CPU mainthread time: 11.2 ms
+
+Record Time: 6.299658 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 871 MB
+System Used Memory: 871 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.315331 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 871 MB
+System Used Memory: 871 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.331968 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 864 MB
+System Used Memory: 864 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.348803 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 864 MB
+System Used Memory: 864 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.365714 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 864 MB
+System Used Memory: 864 MB
+CPU mainthread time: 17.5 ms
+
+Record Time: 6.382129 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 864 MB
+System Used Memory: 864 MB
+CPU mainthread time: 15.8 ms
+
+Record Time: 6.398952 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 864 MB
+System Used Memory: 864 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.415619 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 864 MB
+System Used Memory: 864 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.432072 sec
+Total Reserved Memory: 331 MB
+Total Used Memory: 864 MB
+System Used Memory: 864 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.448758 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.464881 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.482125 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.498702 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 6.51543 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.532123 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.5486 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 6.564814 sec
+Total Reserved Memory: 347 MB
+Total Used Memory: 880 MB
+System Used Memory: 880 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.582067 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.598548 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 6.61542 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.632063 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.648796 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.664833 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.682002 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.698663 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.724509 sec
+Total Reserved Memory: 363 MB
+Total Used Memory: 896 MB
+System Used Memory: 896 MB
+CPU mainthread time: 25.6 ms
+
+Record Time: 6.734543 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 912 MB
+System Used Memory: 912 MB
+CPU mainthread time: 10.1 ms
+
+Record Time: 6.748472 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 912 MB
+System Used Memory: 912 MB
+CPU mainthread time: 14.1 ms
+
+Record Time: 6.764826 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.782176 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.799652 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 6.815396 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.832015 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.848679 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.865611 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 17.3 ms
+
+Record Time: 6.881908 sec
+Total Reserved Memory: 379 MB
+Total Used Memory: 913 MB
+System Used Memory: 913 MB
+CPU mainthread time: 15.9 ms
+
+Record Time: 6.898745 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.915497 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.932087 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 6.948728 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 6.964944 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.982249 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 6.998773 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 7.0154 sec
+Total Reserved Memory: 395 MB
+Total Used Memory: 929 MB
+System Used Memory: 929 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.03214 sec
+Total Reserved Memory: 411 MB
+Total Used Memory: 945 MB
+System Used Memory: 945 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.048831 sec
+Total Reserved Memory: 411 MB
+Total Used Memory: 945 MB
+System Used Memory: 945 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.064742 sec
+Total Reserved Memory: 411 MB
+Total Used Memory: 945 MB
+System Used Memory: 945 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.082131 sec
+Total Reserved Memory: 411 MB
+Total Used Memory: 945 MB
+System Used Memory: 945 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 7.098609 sec
+Total Reserved Memory: 411 MB
+Total Used Memory: 945 MB
+System Used Memory: 945 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.11526 sec
+Total Reserved Memory: 411 MB
+Total Used Memory: 945 MB
+System Used Memory: 945 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.132074 sec
+Total Reserved Memory: 411 MB
+Total Used Memory: 945 MB
+System Used Memory: 945 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.162503 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 961 MB
+System Used Memory: 961 MB
+CPU mainthread time: 30.4 ms
+
+Record Time: 7.182388 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 19.8 ms
+
+Record Time: 7.198803 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 7.215516 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.232262 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.248725 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.264826 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.281912 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.298774 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.316432 sec
+Total Reserved Memory: 427 MB
+Total Used Memory: 962 MB
+System Used Memory: 962 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.332113 sec
+Total Reserved Memory: 443 MB
+Total Used Memory: 978 MB
+System Used Memory: 978 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.348727 sec
+Total Reserved Memory: 443 MB
+Total Used Memory: 978 MB
+System Used Memory: 978 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.365893 sec
+Total Reserved Memory: 443 MB
+Total Used Memory: 978 MB
+System Used Memory: 978 MB
+CPU mainthread time: 17.5 ms
+
+Record Time: 7.381997 sec
+Total Reserved Memory: 443 MB
+Total Used Memory: 978 MB
+System Used Memory: 978 MB
+CPU mainthread time: 15.7 ms
+
+Record Time: 7.399002 sec
+Total Reserved Memory: 443 MB
+Total Used Memory: 978 MB
+System Used Memory: 978 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.415459 sec
+Total Reserved Memory: 443 MB
+Total Used Memory: 978 MB
+System Used Memory: 978 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 7.43215 sec
+Total Reserved Memory: 443 MB
+Total Used Memory: 978 MB
+System Used Memory: 978 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.448768 sec
+Total Reserved Memory: 459 MB
+Total Used Memory: 994 MB
+System Used Memory: 994 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.464954 sec
+Total Reserved Memory: 459 MB
+Total Used Memory: 995 MB
+System Used Memory: 995 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.481988 sec
+Total Reserved Memory: 459 MB
+Total Used Memory: 995 MB
+System Used Memory: 995 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 7.498734 sec
+Total Reserved Memory: 459 MB
+Total Used Memory: 995 MB
+System Used Memory: 995 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.51526 sec
+Total Reserved Memory: 459 MB
+Total Used Memory: 995 MB
+System Used Memory: 995 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 7.531982 sec
+Total Reserved Memory: 459 MB
+Total Used Memory: 995 MB
+System Used Memory: 995 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.548769 sec
+Total Reserved Memory: 475 MB
+Total Used Memory: 1011 MB
+System Used Memory: 1011 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.564692 sec
+Total Reserved Memory: 475 MB
+Total Used Memory: 1011 MB
+System Used Memory: 1011 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 7.582157 sec
+Total Reserved Memory: 475 MB
+Total Used Memory: 1011 MB
+System Used Memory: 1011 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 7.598706 sec
+Total Reserved Memory: 475 MB
+Total Used Memory: 1011 MB
+System Used Memory: 1011 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.615271 sec
+Total Reserved Memory: 475 MB
+Total Used Memory: 1011 MB
+System Used Memory: 1011 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 7.632086 sec
+Total Reserved Memory: 475 MB
+Total Used Memory: 1011 MB
+System Used Memory: 1011 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.668004 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 35.9 ms
+
+Record Time: 7.68196 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 14.0 ms
+
+Record Time: 7.698656 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.715574 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.732062 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.748621 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.764889 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.782003 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.79852 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.815351 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 7.832732 sec
+Total Reserved Memory: 491 MB
+Total Used Memory: 1027 MB
+System Used Memory: 1027 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.849072 sec
+Total Reserved Memory: 507 MB
+Total Used Memory: 1044 MB
+System Used Memory: 1044 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.864969 sec
+Total Reserved Memory: 507 MB
+Total Used Memory: 1044 MB
+System Used Memory: 1044 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.882022 sec
+Total Reserved Memory: 507 MB
+Total Used Memory: 1044 MB
+System Used Memory: 1044 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.898628 sec
+Total Reserved Memory: 507 MB
+Total Used Memory: 1044 MB
+System Used Memory: 1044 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.915487 sec
+Total Reserved Memory: 507 MB
+Total Used Memory: 1044 MB
+System Used Memory: 1044 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.932126 sec
+Total Reserved Memory: 507 MB
+Total Used Memory: 1044 MB
+System Used Memory: 1044 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.94874 sec
+Total Reserved Memory: 523 MB
+Total Used Memory: 1060 MB
+System Used Memory: 1060 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.964948 sec
+Total Reserved Memory: 523 MB
+Total Used Memory: 1060 MB
+System Used Memory: 1060 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 7.982051 sec
+Total Reserved Memory: 523 MB
+Total Used Memory: 1060 MB
+System Used Memory: 1060 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 7.998829 sec
+Total Reserved Memory: 523 MB
+Total Used Memory: 1060 MB
+System Used Memory: 1060 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.015479 sec
+Total Reserved Memory: 523 MB
+Total Used Memory: 1060 MB
+System Used Memory: 1060 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.032092 sec
+Total Reserved Memory: 523 MB
+Total Used Memory: 1060 MB
+System Used Memory: 1060 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.048774 sec
+Total Reserved Memory: 539 MB
+Total Used Memory: 1076 MB
+System Used Memory: 1076 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.064896 sec
+Total Reserved Memory: 539 MB
+Total Used Memory: 1076 MB
+System Used Memory: 1076 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.081989 sec
+Total Reserved Memory: 539 MB
+Total Used Memory: 1076 MB
+System Used Memory: 1076 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.098733 sec
+Total Reserved Memory: 539 MB
+Total Used Memory: 1076 MB
+System Used Memory: 1076 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.115303 sec
+Total Reserved Memory: 539 MB
+Total Used Memory: 1076 MB
+System Used Memory: 1076 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.132073 sec
+Total Reserved Memory: 555 MB
+Total Used Memory: 1092 MB
+System Used Memory: 1092 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.148752 sec
+Total Reserved Memory: 555 MB
+Total Used Memory: 1092 MB
+System Used Memory: 1092 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.164838 sec
+Total Reserved Memory: 555 MB
+Total Used Memory: 1093 MB
+System Used Memory: 1093 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.18215 sec
+Total Reserved Memory: 555 MB
+Total Used Memory: 1093 MB
+System Used Memory: 1093 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.198598 sec
+Total Reserved Memory: 555 MB
+Total Used Memory: 1093 MB
+System Used Memory: 1093 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.215465 sec
+Total Reserved Memory: 555 MB
+Total Used Memory: 1093 MB
+System Used Memory: 1093 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.257424 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 41.9 ms
+
+Record Time: 8.268313 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 11.0 ms
+
+Record Time: 8.281941 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 13.5 ms
+
+Record Time: 8.298637 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.315486 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.333 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.348783 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.365147 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.382255 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.398943 sec
+Total Reserved Memory: 571 MB
+Total Used Memory: 1109 MB
+System Used Memory: 1109 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.415504 sec
+Total Reserved Memory: 587 MB
+Total Used Memory: 1125 MB
+System Used Memory: 1125 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.432132 sec
+Total Reserved Memory: 587 MB
+Total Used Memory: 1126 MB
+System Used Memory: 1126 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.448806 sec
+Total Reserved Memory: 587 MB
+Total Used Memory: 1126 MB
+System Used Memory: 1126 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.464874 sec
+Total Reserved Memory: 587 MB
+Total Used Memory: 1126 MB
+System Used Memory: 1126 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.482031 sec
+Total Reserved Memory: 587 MB
+Total Used Memory: 1126 MB
+System Used Memory: 1126 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.498802 sec
+Total Reserved Memory: 603 MB
+Total Used Memory: 1142 MB
+System Used Memory: 1142 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.515221 sec
+Total Reserved Memory: 603 MB
+Total Used Memory: 1142 MB
+System Used Memory: 1142 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 8.532251 sec
+Total Reserved Memory: 603 MB
+Total Used Memory: 1142 MB
+System Used Memory: 1142 MB
+CPU mainthread time: 17.0 ms
+
+Record Time: 8.548679 sec
+Total Reserved Memory: 603 MB
+Total Used Memory: 1142 MB
+System Used Memory: 1142 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.564744 sec
+Total Reserved Memory: 603 MB
+Total Used Memory: 1142 MB
+System Used Memory: 1142 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.582109 sec
+Total Reserved Memory: 603 MB
+Total Used Memory: 1142 MB
+System Used Memory: 1142 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.59868 sec
+Total Reserved Memory: 619 MB
+Total Used Memory: 1158 MB
+System Used Memory: 1158 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.61521 sec
+Total Reserved Memory: 619 MB
+Total Used Memory: 1158 MB
+System Used Memory: 1158 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.631956 sec
+Total Reserved Memory: 619 MB
+Total Used Memory: 1158 MB
+System Used Memory: 1158 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.648779 sec
+Total Reserved Memory: 619 MB
+Total Used Memory: 1158 MB
+System Used Memory: 1158 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.664824 sec
+Total Reserved Memory: 619 MB
+Total Used Memory: 1158 MB
+System Used Memory: 1158 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.682046 sec
+Total Reserved Memory: 635 MB
+Total Used Memory: 1174 MB
+System Used Memory: 1174 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.698573 sec
+Total Reserved Memory: 635 MB
+Total Used Memory: 1174 MB
+System Used Memory: 1174 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.715427 sec
+Total Reserved Memory: 635 MB
+Total Used Memory: 1175 MB
+System Used Memory: 1175 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.732203 sec
+Total Reserved Memory: 635 MB
+Total Used Memory: 1175 MB
+System Used Memory: 1175 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.748705 sec
+Total Reserved Memory: 635 MB
+Total Used Memory: 1175 MB
+System Used Memory: 1175 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 8.764971 sec
+Total Reserved Memory: 651 MB
+Total Used Memory: 1191 MB
+System Used Memory: 1191 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.78207 sec
+Total Reserved Memory: 651 MB
+Total Used Memory: 1189 MB
+System Used Memory: 1189 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.798782 sec
+Total Reserved Memory: 651 MB
+Total Used Memory: 1189 MB
+System Used Memory: 1189 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.81523 sec
+Total Reserved Memory: 651 MB
+Total Used Memory: 1189 MB
+System Used Memory: 1189 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 8.833256 sec
+Total Reserved Memory: 651 MB
+Total Used Memory: 1189 MB
+System Used Memory: 1189 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 8.886106 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1205 MB
+System Used Memory: 1205 MB
+CPU mainthread time: 53.9 ms
+
+Record Time: 8.898854 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1206 MB
+System Used Memory: 1206 MB
+CPU mainthread time: 12.5 ms
+
+Record Time: 8.915487 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1206 MB
+System Used Memory: 1206 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.932066 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1206 MB
+System Used Memory: 1206 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.948903 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1206 MB
+System Used Memory: 1206 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 8.964816 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1206 MB
+System Used Memory: 1206 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 8.982115 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1203 MB
+System Used Memory: 1203 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 8.99877 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1203 MB
+System Used Memory: 1203 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.015429 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1203 MB
+System Used Memory: 1203 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.032043 sec
+Total Reserved Memory: 667 MB
+Total Used Memory: 1203 MB
+System Used Memory: 1203 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.048684 sec
+Total Reserved Memory: 683 MB
+Total Used Memory: 1219 MB
+System Used Memory: 1219 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.064833 sec
+Total Reserved Memory: 683 MB
+Total Used Memory: 1219 MB
+System Used Memory: 1219 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.082037 sec
+Total Reserved Memory: 683 MB
+Total Used Memory: 1219 MB
+System Used Memory: 1219 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.098966 sec
+Total Reserved Memory: 683 MB
+Total Used Memory: 1219 MB
+System Used Memory: 1219 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.115534 sec
+Total Reserved Memory: 683 MB
+Total Used Memory: 1219 MB
+System Used Memory: 1219 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.132123 sec
+Total Reserved Memory: 699 MB
+Total Used Memory: 1236 MB
+System Used Memory: 1236 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.148669 sec
+Total Reserved Memory: 699 MB
+Total Used Memory: 1236 MB
+System Used Memory: 1236 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 9.164897 sec
+Total Reserved Memory: 699 MB
+Total Used Memory: 1236 MB
+System Used Memory: 1236 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.182072 sec
+Total Reserved Memory: 699 MB
+Total Used Memory: 1236 MB
+System Used Memory: 1236 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.198708 sec
+Total Reserved Memory: 699 MB
+Total Used Memory: 1236 MB
+System Used Memory: 1236 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.215411 sec
+Total Reserved Memory: 715 MB
+Total Used Memory: 1252 MB
+System Used Memory: 1252 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.232551 sec
+Total Reserved Memory: 715 MB
+Total Used Memory: 1252 MB
+System Used Memory: 1252 MB
+CPU mainthread time: 17.0 ms
+
+Record Time: 9.248899 sec
+Total Reserved Memory: 715 MB
+Total Used Memory: 1252 MB
+System Used Memory: 1252 MB
+CPU mainthread time: 16.3 ms
+
+Record Time: 9.264966 sec
+Total Reserved Memory: 715 MB
+Total Used Memory: 1252 MB
+System Used Memory: 1252 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.282025 sec
+Total Reserved Memory: 715 MB
+Total Used Memory: 1252 MB
+System Used Memory: 1252 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 9.298635 sec
+Total Reserved Memory: 731 MB
+Total Used Memory: 1268 MB
+System Used Memory: 1268 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.315383 sec
+Total Reserved Memory: 731 MB
+Total Used Memory: 1269 MB
+System Used Memory: 1269 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.332047 sec
+Total Reserved Memory: 731 MB
+Total Used Memory: 1269 MB
+System Used Memory: 1269 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.349935 sec
+Total Reserved Memory: 731 MB
+Total Used Memory: 1269 MB
+System Used Memory: 1269 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.364864 sec
+Total Reserved Memory: 747 MB
+Total Used Memory: 1285 MB
+System Used Memory: 1285 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.382158 sec
+Total Reserved Memory: 747 MB
+Total Used Memory: 1285 MB
+System Used Memory: 1285 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.399239 sec
+Total Reserved Memory: 747 MB
+Total Used Memory: 1285 MB
+System Used Memory: 1285 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.41533 sec
+Total Reserved Memory: 747 MB
+Total Used Memory: 1285 MB
+System Used Memory: 1285 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 9.432074 sec
+Total Reserved Memory: 747 MB
+Total Used Memory: 1285 MB
+System Used Memory: 1285 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.448898 sec
+Total Reserved Memory: 763 MB
+Total Used Memory: 1301 MB
+System Used Memory: 1301 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.46499 sec
+Total Reserved Memory: 763 MB
+Total Used Memory: 1301 MB
+System Used Memory: 1301 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.482105 sec
+Total Reserved Memory: 763 MB
+Total Used Memory: 1301 MB
+System Used Memory: 1301 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.498817 sec
+Total Reserved Memory: 763 MB
+Total Used Memory: 1301 MB
+System Used Memory: 1301 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.515395 sec
+Total Reserved Memory: 763 MB
+Total Used Memory: 1301 MB
+System Used Memory: 1301 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.532055 sec
+Total Reserved Memory: 779 MB
+Total Used Memory: 1317 MB
+System Used Memory: 1317 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.548742 sec
+Total Reserved Memory: 779 MB
+Total Used Memory: 1317 MB
+System Used Memory: 1317 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.564925 sec
+Total Reserved Memory: 779 MB
+Total Used Memory: 1318 MB
+System Used Memory: 1318 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.582119 sec
+Total Reserved Memory: 779 MB
+Total Used Memory: 1318 MB
+System Used Memory: 1318 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.643106 sec
+Total Reserved Memory: 779 MB
+Total Used Memory: 1318 MB
+System Used Memory: 1318 MB
+CPU mainthread time: 60.9 ms
+
+Record Time: 9.666331 sec
+Total Reserved Memory: 779 MB
+Total Used Memory: 1318 MB
+System Used Memory: 1318 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 9.681893 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 9.698662 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.715407 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 9.732081 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 9.748673 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.764751 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 9.782075 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.798744 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.81528 sec
+Total Reserved Memory: 795 MB
+Total Used Memory: 1334 MB
+System Used Memory: 1334 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 9.831983 sec
+Total Reserved Memory: 811 MB
+Total Used Memory: 1350 MB
+System Used Memory: 1350 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.848708 sec
+Total Reserved Memory: 811 MB
+Total Used Memory: 1350 MB
+System Used Memory: 1350 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.865893 sec
+Total Reserved Memory: 811 MB
+Total Used Memory: 1350 MB
+System Used Memory: 1350 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.882214 sec
+Total Reserved Memory: 811 MB
+Total Used Memory: 1350 MB
+System Used Memory: 1350 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.89891 sec
+Total Reserved Memory: 827 MB
+Total Used Memory: 1367 MB
+System Used Memory: 1367 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.915569 sec
+Total Reserved Memory: 827 MB
+Total Used Memory: 1367 MB
+System Used Memory: 1367 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 9.932267 sec
+Total Reserved Memory: 827 MB
+Total Used Memory: 1367 MB
+System Used Memory: 1367 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.948786 sec
+Total Reserved Memory: 827 MB
+Total Used Memory: 1367 MB
+System Used Memory: 1367 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 9.965016 sec
+Total Reserved Memory: 843 MB
+Total Used Memory: 1383 MB
+System Used Memory: 1383 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 9.982108 sec
+Total Reserved Memory: 843 MB
+Total Used Memory: 1383 MB
+System Used Memory: 1383 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 9.998656 sec
+Total Reserved Memory: 843 MB
+Total Used Memory: 1383 MB
+System Used Memory: 1383 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.01526 sec
+Total Reserved Memory: 843 MB
+Total Used Memory: 1383 MB
+System Used Memory: 1383 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 10.03208 sec
+Total Reserved Memory: 843 MB
+Total Used Memory: 1383 MB
+System Used Memory: 1383 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.0488 sec
+Total Reserved Memory: 859 MB
+Total Used Memory: 1399 MB
+System Used Memory: 1399 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.06496 sec
+Total Reserved Memory: 859 MB
+Total Used Memory: 1399 MB
+System Used Memory: 1399 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.08211 sec
+Total Reserved Memory: 859 MB
+Total Used Memory: 1399 MB
+System Used Memory: 1399 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.09871 sec
+Total Reserved Memory: 859 MB
+Total Used Memory: 1399 MB
+System Used Memory: 1399 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.11535 sec
+Total Reserved Memory: 875 MB
+Total Used Memory: 1415 MB
+System Used Memory: 1415 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.13203 sec
+Total Reserved Memory: 875 MB
+Total Used Memory: 1416 MB
+System Used Memory: 1416 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.14882 sec
+Total Reserved Memory: 875 MB
+Total Used Memory: 1416 MB
+System Used Memory: 1416 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.16493 sec
+Total Reserved Memory: 875 MB
+Total Used Memory: 1416 MB
+System Used Memory: 1416 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.18212 sec
+Total Reserved Memory: 891 MB
+Total Used Memory: 1432 MB
+System Used Memory: 1432 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.19876 sec
+Total Reserved Memory: 891 MB
+Total Used Memory: 1432 MB
+System Used Memory: 1432 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.21535 sec
+Total Reserved Memory: 891 MB
+Total Used Memory: 1432 MB
+System Used Memory: 1432 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.23208 sec
+Total Reserved Memory: 891 MB
+Total Used Memory: 1432 MB
+System Used Memory: 1432 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.24881 sec
+Total Reserved Memory: 907 MB
+Total Used Memory: 1448 MB
+System Used Memory: 1448 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.26492 sec
+Total Reserved Memory: 907 MB
+Total Used Memory: 1448 MB
+System Used Memory: 1448 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.28228 sec
+Total Reserved Memory: 907 MB
+Total Used Memory: 1448 MB
+System Used Memory: 1448 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.29875 sec
+Total Reserved Memory: 907 MB
+Total Used Memory: 1448 MB
+System Used Memory: 1448 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 10.31538 sec
+Total Reserved Memory: 923 MB
+Total Used Memory: 1464 MB
+System Used Memory: 1464 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.3321 sec
+Total Reserved Memory: 923 MB
+Total Used Memory: 1464 MB
+System Used Memory: 1464 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.3487 sec
+Total Reserved Memory: 923 MB
+Total Used Memory: 1464 MB
+System Used Memory: 1464 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.36548 sec
+Total Reserved Memory: 923 MB
+Total Used Memory: 1465 MB
+System Used Memory: 1465 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.44496 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 79.0 ms
+
+Record Time: 10.46653 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 21.1 ms
+
+Record Time: 10.48216 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.49868 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.5155 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.53208 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.54873 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.56498 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.58217 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.59878 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.61536 sec
+Total Reserved Memory: 939 MB
+Total Used Memory: 1481 MB
+System Used Memory: 1481 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 10.63211 sec
+Total Reserved Memory: 955 MB
+Total Used Memory: 1498 MB
+System Used Memory: 1498 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.64881 sec
+Total Reserved Memory: 955 MB
+Total Used Memory: 1498 MB
+System Used Memory: 1498 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.66495 sec
+Total Reserved Memory: 955 MB
+Total Used Memory: 1498 MB
+System Used Memory: 1498 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.68195 sec
+Total Reserved Memory: 955 MB
+Total Used Memory: 1498 MB
+System Used Memory: 1498 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.69864 sec
+Total Reserved Memory: 971 MB
+Total Used Memory: 1514 MB
+System Used Memory: 1514 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.71541 sec
+Total Reserved Memory: 971 MB
+Total Used Memory: 1514 MB
+System Used Memory: 1514 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.73204 sec
+Total Reserved Memory: 971 MB
+Total Used Memory: 1514 MB
+System Used Memory: 1514 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.74874 sec
+Total Reserved Memory: 971 MB
+Total Used Memory: 1514 MB
+System Used Memory: 1514 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.76488 sec
+Total Reserved Memory: 987 MB
+Total Used Memory: 1530 MB
+System Used Memory: 1530 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.78204 sec
+Total Reserved Memory: 987 MB
+Total Used Memory: 1530 MB
+System Used Memory: 1530 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.79875 sec
+Total Reserved Memory: 987 MB
+Total Used Memory: 1530 MB
+System Used Memory: 1530 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.81536 sec
+Total Reserved Memory: 1003 MB
+Total Used Memory: 1546 MB
+System Used Memory: 1546 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.83193 sec
+Total Reserved Memory: 1003 MB
+Total Used Memory: 1547 MB
+System Used Memory: 1547 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.84869 sec
+Total Reserved Memory: 1003 MB
+Total Used Memory: 1547 MB
+System Used Memory: 1547 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.86592 sec
+Total Reserved Memory: 1003 MB
+Total Used Memory: 1547 MB
+System Used Memory: 1547 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.88213 sec
+Total Reserved Memory: 1019 MB
+Total Used Memory: 1563 MB
+System Used Memory: 1563 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.89868 sec
+Total Reserved Memory: 1019 MB
+Total Used Memory: 1563 MB
+System Used Memory: 1563 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 10.91542 sec
+Total Reserved Memory: 1019 MB
+Total Used Memory: 1563 MB
+System Used Memory: 1563 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.9321 sec
+Total Reserved Memory: 1019 MB
+Total Used Memory: 1563 MB
+System Used Memory: 1563 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.94875 sec
+Total Reserved Memory: 1035 MB
+Total Used Memory: 1579 MB
+System Used Memory: 1579 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 10.96496 sec
+Total Reserved Memory: 1035 MB
+Total Used Memory: 1579 MB
+System Used Memory: 1579 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 10.98213 sec
+Total Reserved Memory: 1035 MB
+Total Used Memory: 1579 MB
+System Used Memory: 1579 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 10.99885 sec
+Total Reserved Memory: 1035 MB
+Total Used Memory: 1579 MB
+System Used Memory: 1579 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.01538 sec
+Total Reserved Memory: 1051 MB
+Total Used Memory: 1595 MB
+System Used Memory: 1595 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.03191 sec
+Total Reserved Memory: 1051 MB
+Total Used Memory: 1595 MB
+System Used Memory: 1595 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.04877 sec
+Total Reserved Memory: 1051 MB
+Total Used Memory: 1596 MB
+System Used Memory: 1596 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.06482 sec
+Total Reserved Memory: 1051 MB
+Total Used Memory: 1596 MB
+System Used Memory: 1596 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.0823 sec
+Total Reserved Memory: 1067 MB
+Total Used Memory: 1612 MB
+System Used Memory: 1612 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.09871 sec
+Total Reserved Memory: 1067 MB
+Total Used Memory: 1612 MB
+System Used Memory: 1612 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.11534 sec
+Total Reserved Memory: 1067 MB
+Total Used Memory: 1612 MB
+System Used Memory: 1612 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.13214 sec
+Total Reserved Memory: 1067 MB
+Total Used Memory: 1612 MB
+System Used Memory: 1612 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.14872 sec
+Total Reserved Memory: 1083 MB
+Total Used Memory: 1628 MB
+System Used Memory: 1628 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.16511 sec
+Total Reserved Memory: 1083 MB
+Total Used Memory: 1628 MB
+System Used Memory: 1628 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.18213 sec
+Total Reserved Memory: 1083 MB
+Total Used Memory: 1628 MB
+System Used Memory: 1628 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.19874 sec
+Total Reserved Memory: 1099 MB
+Total Used Memory: 1645 MB
+System Used Memory: 1645 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.21542 sec
+Total Reserved Memory: 1099 MB
+Total Used Memory: 1645 MB
+System Used Memory: 1645 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.23216 sec
+Total Reserved Memory: 1099 MB
+Total Used Memory: 1645 MB
+System Used Memory: 1645 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.24876 sec
+Total Reserved Memory: 1099 MB
+Total Used Memory: 1645 MB
+System Used Memory: 1645 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.33286 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 84.5 ms
+
+Record Time: 11.35007 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 15.5 ms
+
+Record Time: 11.36493 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.38307 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.3988 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.41551 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.43202 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.44873 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.4652 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 17.0 ms
+
+Record Time: 11.48245 sec
+Total Reserved Memory: 1115 MB
+Total Used Memory: 1661 MB
+System Used Memory: 1661 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.49887 sec
+Total Reserved Memory: 1131 MB
+Total Used Memory: 1678 MB
+System Used Memory: 1678 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.51537 sec
+Total Reserved Memory: 1131 MB
+Total Used Memory: 1678 MB
+System Used Memory: 1678 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.5322 sec
+Total Reserved Memory: 1131 MB
+Total Used Memory: 1678 MB
+System Used Memory: 1678 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.54866 sec
+Total Reserved Memory: 1131 MB
+Total Used Memory: 1678 MB
+System Used Memory: 1678 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.56487 sec
+Total Reserved Memory: 1147 MB
+Total Used Memory: 1694 MB
+System Used Memory: 1694 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.58206 sec
+Total Reserved Memory: 1147 MB
+Total Used Memory: 1694 MB
+System Used Memory: 1694 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.59877 sec
+Total Reserved Memory: 1147 MB
+Total Used Memory: 1694 MB
+System Used Memory: 1694 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.61527 sec
+Total Reserved Memory: 1147 MB
+Total Used Memory: 1694 MB
+System Used Memory: 1694 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.63202 sec
+Total Reserved Memory: 1163 MB
+Total Used Memory: 1710 MB
+System Used Memory: 1710 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.64882 sec
+Total Reserved Memory: 1163 MB
+Total Used Memory: 1710 MB
+System Used Memory: 1710 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.6648 sec
+Total Reserved Memory: 1163 MB
+Total Used Memory: 1710 MB
+System Used Memory: 1710 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.68213 sec
+Total Reserved Memory: 1179 MB
+Total Used Memory: 1727 MB
+System Used Memory: 1727 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.69871 sec
+Total Reserved Memory: 1179 MB
+Total Used Memory: 1727 MB
+System Used Memory: 1727 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.71547 sec
+Total Reserved Memory: 1179 MB
+Total Used Memory: 1727 MB
+System Used Memory: 1727 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.73203 sec
+Total Reserved Memory: 1179 MB
+Total Used Memory: 1727 MB
+System Used Memory: 1727 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.74879 sec
+Total Reserved Memory: 1195 MB
+Total Used Memory: 1743 MB
+System Used Memory: 1743 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.76481 sec
+Total Reserved Memory: 1195 MB
+Total Used Memory: 1743 MB
+System Used Memory: 1743 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.78222 sec
+Total Reserved Memory: 1195 MB
+Total Used Memory: 1743 MB
+System Used Memory: 1743 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.79866 sec
+Total Reserved Memory: 1211 MB
+Total Used Memory: 1759 MB
+System Used Memory: 1759 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.81539 sec
+Total Reserved Memory: 1211 MB
+Total Used Memory: 1759 MB
+System Used Memory: 1759 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.83199 sec
+Total Reserved Memory: 1211 MB
+Total Used Memory: 1759 MB
+System Used Memory: 1759 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.84866 sec
+Total Reserved Memory: 1227 MB
+Total Used Memory: 1776 MB
+System Used Memory: 1776 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 11.86479 sec
+Total Reserved Memory: 1227 MB
+Total Used Memory: 1776 MB
+System Used Memory: 1776 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 11.88219 sec
+Total Reserved Memory: 1227 MB
+Total Used Memory: 1776 MB
+System Used Memory: 1776 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 11.89928 sec
+Total Reserved Memory: 1227 MB
+Total Used Memory: 1776 MB
+System Used Memory: 1776 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.91592 sec
+Total Reserved Memory: 1243 MB
+Total Used Memory: 1792 MB
+System Used Memory: 1792 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.93244 sec
+Total Reserved Memory: 1243 MB
+Total Used Memory: 1792 MB
+System Used Memory: 1792 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 11.94898 sec
+Total Reserved Memory: 1243 MB
+Total Used Memory: 1792 MB
+System Used Memory: 1792 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.96494 sec
+Total Reserved Memory: 1259 MB
+Total Used Memory: 1808 MB
+System Used Memory: 1808 MB
+CPU mainthread time: 16.5 ms
+
+Record Time: 11.98215 sec
+Total Reserved Memory: 1259 MB
+Total Used Memory: 1809 MB
+System Used Memory: 1809 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 11.99885 sec
+Total Reserved Memory: 1259 MB
+Total Used Memory: 1809 MB
+System Used Memory: 1809 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 12.01579 sec
+Total Reserved Memory: 1259 MB
+Total Used Memory: 1809 MB
+System Used Memory: 1809 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 12.03258 sec
+Total Reserved Memory: 1275 MB
+Total Used Memory: 1825 MB
+System Used Memory: 1825 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 12.05029 sec
+Total Reserved Memory: 1275 MB
+Total Used Memory: 1825 MB
+System Used Memory: 1825 MB
+CPU mainthread time: 17.5 ms
+
+Record Time: 12.06779 sec
+Total Reserved Memory: 1275 MB
+Total Used Memory: 1825 MB
+System Used Memory: 1825 MB
+CPU mainthread time: 18.2 ms
+
+Record Time: 12.08527 sec
+Total Reserved Memory: 1291 MB
+Total Used Memory: 1841 MB
+System Used Memory: 1841 MB
+CPU mainthread time: 17.0 ms
+
+Record Time: 12.10259 sec
+Total Reserved Memory: 1291 MB
+Total Used Memory: 1841 MB
+System Used Memory: 1841 MB
+CPU mainthread time: 17.3 ms
+
+Record Time: 12.11969 sec
+Total Reserved Memory: 1291 MB
+Total Used Memory: 1841 MB
+System Used Memory: 1841 MB
+CPU mainthread time: 17.1 ms
+
+Record Time: 12.13669 sec
+Total Reserved Memory: 1291 MB
+Total Used Memory: 1841 MB
+System Used Memory: 1841 MB
+CPU mainthread time: 17.1 ms
+
+Record Time: 12.15307 sec
+Total Reserved Memory: 1307 MB
+Total Used Memory: 1858 MB
+System Used Memory: 1858 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 12.16915 sec
+Total Reserved Memory: 1307 MB
+Total Used Memory: 1858 MB
+System Used Memory: 1858 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 12.18621 sec
+Total Reserved Memory: 1307 MB
+Total Used Memory: 1858 MB
+System Used Memory: 1858 MB
+CPU mainthread time: 16.6 ms
+
+Record Time: 12.21595 sec
+Total Reserved Memory: 1323 MB
+Total Used Memory: 1874 MB
+System Used Memory: 1874 MB
+CPU mainthread time: 29.5 ms
+
+Record Time: 12.23252 sec
+Total Reserved Memory: 1323 MB
+Total Used Memory: 1874 MB
+System Used Memory: 1874 MB
+CPU mainthread time: 16.9 ms
+
+Record Time: 12.24928 sec
+Total Reserved Memory: 1323 MB
+Total Used Memory: 1874 MB
+System Used Memory: 1874 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 12.35291 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1890 MB
+System Used Memory: 1890 MB
+CPU mainthread time: 104.0 ms
+
+Record Time: 12.38383 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1890 MB
+System Used Memory: 1890 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 12.40057 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1890 MB
+System Used Memory: 1890 MB
+CPU mainthread time: 18.3 ms
+
+Record Time: 12.418 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1890 MB
+System Used Memory: 1890 MB
+CPU mainthread time: 16.4 ms
+
+Record Time: 12.43509 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1890 MB
+System Used Memory: 1890 MB
+CPU mainthread time: 18.1 ms
+
+Record Time: 12.45187 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1891 MB
+System Used Memory: 1891 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 12.46794 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1891 MB
+System Used Memory: 1891 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 12.48434 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1891 MB
+System Used Memory: 1891 MB
+CPU mainthread time: 15.8 ms
+
+Record Time: 12.50057 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1891 MB
+System Used Memory: 1891 MB
+CPU mainthread time: 16.3 ms
+
+Record Time: 12.51762 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1891 MB
+System Used Memory: 1891 MB
+CPU mainthread time: 17.1 ms
+
+Record Time: 12.53428 sec
+Total Reserved Memory: 1339 MB
+Total Used Memory: 1891 MB
+System Used Memory: 1891 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 12.55118 sec
+Total Reserved Memory: 1355 MB
+Total Used Memory: 1907 MB
+System Used Memory: 1907 MB
+CPU mainthread time: 16.8 ms
+
+Record Time: 12.56817 sec
+Total Reserved Memory: 1355 MB
+Total Used Memory: 1907 MB
+System Used Memory: 1907 MB
+CPU mainthread time: 17.5 ms
+
+Record Time: 12.58538 sec
+Total Reserved Memory: 1355 MB
+Total Used Memory: 1907 MB
+System Used Memory: 1907 MB
+CPU mainthread time: 16.7 ms
+
+Record Time: 12.60318 sec
+Total Reserved Memory: 1371 MB
+Total Used Memory: 1924 MB
+System Used Memory: 1924 MB
+CPU mainthread time: 17.8 ms
+
+Record Time: 12.6326 sec
+Total Reserved Memory: 1371 MB
+Total Used Memory: 1924 MB
+System Used Memory: 1924 MB
+CPU mainthread time: 29.1 ms
+
+Record Time: 12.64982 sec
+Total Reserved Memory: 1371 MB
+Total Used Memory: 1924 MB
+System Used Memory: 1924 MB
+CPU mainthread time: 17.6 ms
+
+Record Time: 12.66658 sec
+Total Reserved Memory: 1371 MB
+Total Used Memory: 1924 MB
+System Used Memory: 1924 MB
+CPU mainthread time: 17.2 ms
+
+Record Time: 12.68407 sec
+Total Reserved Memory: 1387 MB
+Total Used Memory: 1940 MB
+System Used Memory: 1940 MB
+CPU mainthread time: 17.0 ms
+
+Record Time: 12.70108 sec
+Total Reserved Memory: 1387 MB
+Total Used Memory: 1940 MB
+System Used Memory: 1940 MB
+CPU mainthread time: 17.1 ms
+
+Record Time: 12.7186 sec
+Total Reserved Memory: 1387 MB
+Total Used Memory: 1940 MB
+System Used Memory: 1940 MB
+CPU mainthread time: 17.4 ms
+
+Record Time: 12.73604 sec
+Total Reserved Memory: 1403 MB
+Total Used Memory: 1956 MB
+System Used Memory: 1956 MB
+CPU mainthread time: 17.5 ms
+
+Record Time: 12.75326 sec
+Total Reserved Memory: 1403 MB
+Total Used Memory: 1956 MB
+System Used Memory: 1956 MB
+CPU mainthread time: 17.2 ms
+
+Record Time: 12.77097 sec
+Total Reserved Memory: 1403 MB
+Total Used Memory: 1956 MB
+System Used Memory: 1956 MB
+CPU mainthread time: 18.2 ms
+
+Record Time: 12.78873 sec
+Total Reserved Memory: 1419 MB
+Total Used Memory: 1972 MB
+System Used Memory: 1972 MB
+CPU mainthread time: 17.3 ms
+
+Record Time: 12.80624 sec
+Total Reserved Memory: 1419 MB
+Total Used Memory: 1973 MB
+System Used Memory: 1973 MB
+CPU mainthread time: 17.5 ms
+
+Record Time: 12.82379 sec
+Total Reserved Memory: 1419 MB
+Total Used Memory: 1973 MB
+System Used Memory: 1973 MB
+CPU mainthread time: 17.6 ms
+
+Record Time: 12.84098 sec
+Total Reserved Memory: 1435 MB
+Total Used Memory: 1989 MB
+System Used Memory: 1989 MB
+CPU mainthread time: 17.2 ms
+
+Record Time: 12.85862 sec
+Total Reserved Memory: 1435 MB
+Total Used Memory: 1989 MB
+System Used Memory: 1989 MB
+CPU mainthread time: 17.6 ms
+
+Record Time: 12.8755 sec
+Total Reserved Memory: 1435 MB
+Total Used Memory: 1989 MB
+System Used Memory: 1989 MB
+CPU mainthread time: 17.3 ms
+
+Record Time: 12.89312 sec
+Total Reserved Memory: 1451 MB
+Total Used Memory: 2005 MB
+System Used Memory: 2005 MB
+CPU mainthread time: 17.1 ms
+
+Record Time: 12.91584 sec
+Total Reserved Memory: 1451 MB
+Total Used Memory: 2005 MB
+System Used Memory: 2005 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 12.93463 sec
+Total Reserved Memory: 1451 MB
+Total Used Memory: 2005 MB
+System Used Memory: 2005 MB
+CPU mainthread time: 18.1 ms
+
+Record Time: 12.95204 sec
+Total Reserved Memory: 1467 MB
+Total Used Memory: 2022 MB
+System Used Memory: 2022 MB
+CPU mainthread time: 18.4 ms
+
+Record Time: 12.9692 sec
+Total Reserved Memory: 1467 MB
+Total Used Memory: 2022 MB
+System Used Memory: 2022 MB
+CPU mainthread time: 17.6 ms
+
+Record Time: 12.98681 sec
+Total Reserved Memory: 1467 MB
+Total Used Memory: 2022 MB
+System Used Memory: 2022 MB
+CPU mainthread time: 17.2 ms
+
+Record Time: 13.00499 sec
+Total Reserved Memory: 1467 MB
+Total Used Memory: 2022 MB
+System Used Memory: 2022 MB
+CPU mainthread time: 18.1 ms
+
+Record Time: 13.0229 sec
+Total Reserved Memory: 1483 MB
+Total Used Memory: 2038 MB
+System Used Memory: 2038 MB
+CPU mainthread time: 17.9 ms
+
+Record Time: 13.04055 sec
+Total Reserved Memory: 1483 MB
+Total Used Memory: 2038 MB
+System Used Memory: 2038 MB
+CPU mainthread time: 17.7 ms
+
+Record Time: 13.05803 sec
+Total Reserved Memory: 1483 MB
+Total Used Memory: 2038 MB
+System Used Memory: 2038 MB
+CPU mainthread time: 17.5 ms
+
+Record Time: 13.07534 sec
+Total Reserved Memory: 1499 MB
+Total Used Memory: 2054 MB
+System Used Memory: 2054 MB
+CPU mainthread time: 17.7 ms
+
+Record Time: 13.09326 sec
+Total Reserved Memory: 1499 MB
+Total Used Memory: 2055 MB
+System Used Memory: 2055 MB
+CPU mainthread time: 17.4 ms
+
+Record Time: 13.11571 sec
+Total Reserved Memory: 1499 MB
+Total Used Memory: 2055 MB
+System Used Memory: 2055 MB
+CPU mainthread time: 22.2 ms
+
+Record Time: 13.13416 sec
+Total Reserved Memory: 1515 MB
+Total Used Memory: 2071 MB
+System Used Memory: 2071 MB
+CPU mainthread time: 18.7 ms
+
+Record Time: 13.1525 sec
+Total Reserved Memory: 1515 MB
+Total Used Memory: 2071 MB
+System Used Memory: 2071 MB
+CPU mainthread time: 18.4 ms
+
+Record Time: 13.17024 sec
+Total Reserved Memory: 1515 MB
+Total Used Memory: 2071 MB
+System Used Memory: 2071 MB
+CPU mainthread time: 18.2 ms
+
+Record Time: 13.18824 sec
+Total Reserved Memory: 1531 MB
+Total Used Memory: 2087 MB
+System Used Memory: 2087 MB
+CPU mainthread time: 17.6 ms
+
+Record Time: 13.20622 sec
+Total Reserved Memory: 1531 MB
+Total Used Memory: 2087 MB
+System Used Memory: 2087 MB
+CPU mainthread time: 17.9 ms
+
+Record Time: 13.22449 sec
+Total Reserved Memory: 1531 MB
+Total Used Memory: 2087 MB
+System Used Memory: 2087 MB
+CPU mainthread time: 18.2 ms
+
+Record Time: 13.24248 sec
+Total Reserved Memory: 1547 MB
+Total Used Memory: 2103 MB
+System Used Memory: 2103 MB
+CPU mainthread time: 18.0 ms
+
+Record Time: 13.26117 sec
+Total Reserved Memory: 1547 MB
+Total Used Memory: 2104 MB
+System Used Memory: 2104 MB
+CPU mainthread time: 18.7 ms
+
+Record Time: 13.28217 sec
+Total Reserved Memory: 1547 MB
+Total Used Memory: 2104 MB
+System Used Memory: 2104 MB
+CPU mainthread time: 21.0 ms
+
+Record Time: 13.30025 sec
+Total Reserved Memory: 1563 MB
+Total Used Memory: 2120 MB
+System Used Memory: 2120 MB
+CPU mainthread time: 18.1 ms
+
+Record Time: 13.31866 sec
+Total Reserved Memory: 1563 MB
+Total Used Memory: 2120 MB
+System Used Memory: 2120 MB
+CPU mainthread time: 18.4 ms
+
+Record Time: 13.33688 sec
+Total Reserved Memory: 1563 MB
+Total Used Memory: 2120 MB
+System Used Memory: 2120 MB
+CPU mainthread time: 18.2 ms
+
+Record Time: 13.35464 sec
+Total Reserved Memory: 1579 MB
+Total Used Memory: 2136 MB
+System Used Memory: 2136 MB
+CPU mainthread time: 17.8 ms
+
+Record Time: 13.37227 sec
+Total Reserved Memory: 1579 MB
+Total Used Memory: 2136 MB
+System Used Memory: 2136 MB
+CPU mainthread time: 18.1 ms
+
+Record Time: 13.39093 sec
+Total Reserved Memory: 1579 MB
+Total Used Memory: 2136 MB
+System Used Memory: 2136 MB
+CPU mainthread time: 18.0 ms
+
+Record Time: 13.4123 sec
+Total Reserved Memory: 1595 MB
+Total Used Memory: 2153 MB
+System Used Memory: 2153 MB
+CPU mainthread time: 21.4 ms
+
+Record Time: 13.43239 sec
+Total Reserved Memory: 1595 MB
+Total Used Memory: 2153 MB
+System Used Memory: 2153 MB
+CPU mainthread time: 19.8 ms
+
+Record Time: 13.4528 sec
+Total Reserved Memory: 1595 MB
+Total Used Memory: 2153 MB
+System Used Memory: 2153 MB
+CPU mainthread time: 19.7 ms
+
+Record Time: 13.58408 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 132.7 ms
+
+Record Time: 13.61445 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 26.0 ms
+
+Record Time: 13.63418 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 23.2 ms
+
+Record Time: 13.65269 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 18.9 ms
+
+Record Time: 13.6703 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 18.1 ms
+
+Record Time: 13.68902 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 18.2 ms
+
+Record Time: 13.70784 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 18.9 ms
+
+Record Time: 13.72579 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 18.0 ms
+
+Record Time: 13.74429 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2169 MB
+System Used Memory: 2169 MB
+CPU mainthread time: 18.4 ms
+
+Record Time: 13.76554 sec
+Total Reserved Memory: 1611 MB
+Total Used Memory: 2170 MB
+System Used Memory: 2170 MB
+CPU mainthread time: 21.3 ms
+
+Record Time: 13.78411 sec
+Total Reserved Memory: 1627 MB
+Total Used Memory: 2186 MB
+System Used Memory: 2186 MB
+CPU mainthread time: 18.5 ms
+
+Record Time: 13.80254 sec
+Total Reserved Memory: 1627 MB
+Total Used Memory: 2186 MB
+System Used Memory: 2186 MB
+CPU mainthread time: 18.5 ms
+
+Record Time: 13.82136 sec
+Total Reserved Memory: 1627 MB
+Total Used Memory: 2186 MB
+System Used Memory: 2186 MB
+CPU mainthread time: 18.8 ms
+
+Record Time: 13.84044 sec
+Total Reserved Memory: 1627 MB
+Total Used Memory: 2186 MB
+System Used Memory: 2186 MB
+CPU mainthread time: 18.9 ms
+
+Record Time: 13.85928 sec
+Total Reserved Memory: 1643 MB
+Total Used Memory: 2202 MB
+System Used Memory: 2202 MB
+CPU mainthread time: 19.0 ms
+
+Record Time: 13.87796 sec
+Total Reserved Memory: 1643 MB
+Total Used Memory: 2202 MB
+System Used Memory: 2202 MB
+CPU mainthread time: 19.1 ms
+
+Record Time: 13.89914 sec
+Total Reserved Memory: 1643 MB
+Total Used Memory: 2203 MB
+System Used Memory: 2203 MB
+CPU mainthread time: 20.4 ms
+
+Record Time: 13.9178 sec
+Total Reserved Memory: 1659 MB
+Total Used Memory: 2219 MB
+System Used Memory: 2219 MB
+CPU mainthread time: 19.0 ms
+
+Record Time: 13.93699 sec
+Total Reserved Memory: 1659 MB
+Total Used Memory: 2219 MB
+System Used Memory: 2219 MB
+CPU mainthread time: 19.1 ms
+
+Record Time: 13.95662 sec
+Total Reserved Memory: 1659 MB
+Total Used Memory: 2219 MB
+System Used Memory: 2219 MB
+CPU mainthread time: 18.7 ms
+
+Record Time: 13.97519 sec
+Total Reserved Memory: 1675 MB
+Total Used Memory: 2235 MB
+System Used Memory: 2235 MB
+CPU mainthread time: 20.0 ms
+
+Record Time: 13.99438 sec
+Total Reserved Memory: 1675 MB
+Total Used Memory: 2235 MB
+System Used Memory: 2235 MB
+CPU mainthread time: 18.7 ms
+
+Record Time: 14.01596 sec
+Total Reserved Memory: 1675 MB
+Total Used Memory: 2235 MB
+System Used Memory: 2235 MB
+CPU mainthread time: 21.2 ms
+
+Record Time: 14.03494 sec
+Total Reserved Memory: 1691 MB
+Total Used Memory: 2251 MB
+System Used Memory: 2251 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.05408 sec
+Total Reserved Memory: 1691 MB
+Total Used Memory: 2251 MB
+System Used Memory: 2251 MB
+CPU mainthread time: 19.1 ms
+
+Record Time: 14.0723 sec
+Total Reserved Memory: 1691 MB
+Total Used Memory: 2251 MB
+System Used Memory: 2251 MB
+CPU mainthread time: 18.7 ms
+
+Record Time: 14.09124 sec
+Total Reserved Memory: 1707 MB
+Total Used Memory: 2268 MB
+System Used Memory: 2268 MB
+CPU mainthread time: 18.4 ms
+
+Record Time: 14.11073 sec
+Total Reserved Memory: 1707 MB
+Total Used Memory: 2268 MB
+System Used Memory: 2268 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.13268 sec
+Total Reserved Memory: 1707 MB
+Total Used Memory: 2268 MB
+System Used Memory: 2268 MB
+CPU mainthread time: 21.5 ms
+
+Record Time: 14.15182 sec
+Total Reserved Memory: 1723 MB
+Total Used Memory: 2284 MB
+System Used Memory: 2284 MB
+CPU mainthread time: 19.6 ms
+
+Record Time: 14.17025 sec
+Total Reserved Memory: 1723 MB
+Total Used Memory: 2284 MB
+System Used Memory: 2284 MB
+CPU mainthread time: 18.9 ms
+
+Record Time: 14.18973 sec
+Total Reserved Memory: 1739 MB
+Total Used Memory: 2300 MB
+System Used Memory: 2300 MB
+CPU mainthread time: 18.8 ms
+
+Record Time: 14.20873 sec
+Total Reserved Memory: 1739 MB
+Total Used Memory: 2300 MB
+System Used Memory: 2300 MB
+CPU mainthread time: 19.2 ms
+
+Record Time: 14.2278 sec
+Total Reserved Memory: 1739 MB
+Total Used Memory: 2301 MB
+System Used Memory: 2301 MB
+CPU mainthread time: 19.1 ms
+
+Record Time: 14.24902 sec
+Total Reserved Memory: 1755 MB
+Total Used Memory: 2317 MB
+System Used Memory: 2317 MB
+CPU mainthread time: 20.8 ms
+
+Record Time: 14.26809 sec
+Total Reserved Memory: 1755 MB
+Total Used Memory: 2317 MB
+System Used Memory: 2317 MB
+CPU mainthread time: 19.9 ms
+
+Record Time: 14.28756 sec
+Total Reserved Memory: 1755 MB
+Total Used Memory: 2317 MB
+System Used Memory: 2317 MB
+CPU mainthread time: 19.0 ms
+
+Record Time: 14.30696 sec
+Total Reserved Memory: 1771 MB
+Total Used Memory: 2333 MB
+System Used Memory: 2333 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.32614 sec
+Total Reserved Memory: 1771 MB
+Total Used Memory: 2333 MB
+System Used Memory: 2333 MB
+CPU mainthread time: 19.1 ms
+
+Record Time: 14.34568 sec
+Total Reserved Memory: 1771 MB
+Total Used Memory: 2333 MB
+System Used Memory: 2333 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.36555 sec
+Total Reserved Memory: 1787 MB
+Total Used Memory: 2350 MB
+System Used Memory: 2350 MB
+CPU mainthread time: 19.8 ms
+
+Record Time: 14.38483 sec
+Total Reserved Memory: 1787 MB
+Total Used Memory: 2350 MB
+System Used Memory: 2350 MB
+CPU mainthread time: 19.3 ms
+
+Record Time: 14.40436 sec
+Total Reserved Memory: 1787 MB
+Total Used Memory: 2350 MB
+System Used Memory: 2350 MB
+CPU mainthread time: 19.4 ms
+
+Record Time: 14.42391 sec
+Total Reserved Memory: 1803 MB
+Total Used Memory: 2366 MB
+System Used Memory: 2366 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.44357 sec
+Total Reserved Memory: 1803 MB
+Total Used Memory: 2366 MB
+System Used Memory: 2366 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.46668 sec
+Total Reserved Memory: 1803 MB
+Total Used Memory: 2366 MB
+System Used Memory: 2366 MB
+CPU mainthread time: 22.2 ms
+
+Record Time: 14.48739 sec
+Total Reserved Memory: 1819 MB
+Total Used Memory: 2382 MB
+System Used Memory: 2382 MB
+CPU mainthread time: 21.8 ms
+
+Record Time: 14.50726 sec
+Total Reserved Memory: 1819 MB
+Total Used Memory: 2382 MB
+System Used Memory: 2382 MB
+CPU mainthread time: 19.9 ms
+
+Record Time: 14.52666 sec
+Total Reserved Memory: 1835 MB
+Total Used Memory: 2399 MB
+System Used Memory: 2399 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.54928 sec
+Total Reserved Memory: 1835 MB
+Total Used Memory: 2399 MB
+System Used Memory: 2399 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 14.56861 sec
+Total Reserved Memory: 1835 MB
+Total Used Memory: 2399 MB
+System Used Memory: 2399 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.58784 sec
+Total Reserved Memory: 1851 MB
+Total Used Memory: 2415 MB
+System Used Memory: 2415 MB
+CPU mainthread time: 19.9 ms
+
+Record Time: 14.60766 sec
+Total Reserved Memory: 1851 MB
+Total Used Memory: 2415 MB
+System Used Memory: 2415 MB
+CPU mainthread time: 19.3 ms
+
+Record Time: 14.62739 sec
+Total Reserved Memory: 1851 MB
+Total Used Memory: 2415 MB
+System Used Memory: 2415 MB
+CPU mainthread time: 19.8 ms
+
+Record Time: 14.64928 sec
+Total Reserved Memory: 1867 MB
+Total Used Memory: 2431 MB
+System Used Memory: 2431 MB
+CPU mainthread time: 21.5 ms
+
+Record Time: 14.66804 sec
+Total Reserved Memory: 1867 MB
+Total Used Memory: 2431 MB
+System Used Memory: 2431 MB
+CPU mainthread time: 19.6 ms
+
+Record Time: 14.68743 sec
+Total Reserved Memory: 1867 MB
+Total Used Memory: 2432 MB
+System Used Memory: 2432 MB
+CPU mainthread time: 18.9 ms
+
+Record Time: 14.70701 sec
+Total Reserved Memory: 1883 MB
+Total Used Memory: 2448 MB
+System Used Memory: 2448 MB
+CPU mainthread time: 19.6 ms
+
+Record Time: 14.7268 sec
+Total Reserved Memory: 1883 MB
+Total Used Memory: 2448 MB
+System Used Memory: 2448 MB
+CPU mainthread time: 19.8 ms
+
+Record Time: 14.74906 sec
+Total Reserved Memory: 1899 MB
+Total Used Memory: 2464 MB
+System Used Memory: 2464 MB
+CPU mainthread time: 22.0 ms
+
+Record Time: 14.76767 sec
+Total Reserved Memory: 1899 MB
+Total Used Memory: 2464 MB
+System Used Memory: 2464 MB
+CPU mainthread time: 19.4 ms
+
+Record Time: 14.78753 sec
+Total Reserved Memory: 1899 MB
+Total Used Memory: 2464 MB
+System Used Memory: 2464 MB
+CPU mainthread time: 19.3 ms
+
+Record Time: 14.8085 sec
+Total Reserved Memory: 1915 MB
+Total Used Memory: 2480 MB
+System Used Memory: 2480 MB
+CPU mainthread time: 21.0 ms
+
+Record Time: 14.82833 sec
+Total Reserved Memory: 1915 MB
+Total Used Memory: 2481 MB
+System Used Memory: 2481 MB
+CPU mainthread time: 19.9 ms
+
+Record Time: 14.84906 sec
+Total Reserved Memory: 1915 MB
+Total Used Memory: 2481 MB
+System Used Memory: 2481 MB
+CPU mainthread time: 20.4 ms
+
+Record Time: 14.86857 sec
+Total Reserved Memory: 1931 MB
+Total Used Memory: 2497 MB
+System Used Memory: 2497 MB
+CPU mainthread time: 19.9 ms
+
+Record Time: 14.88762 sec
+Total Reserved Memory: 1931 MB
+Total Used Memory: 2497 MB
+System Used Memory: 2497 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 14.90711 sec
+Total Reserved Memory: 1931 MB
+Total Used Memory: 2497 MB
+System Used Memory: 2497 MB
+CPU mainthread time: 19.0 ms
+
+Record Time: 15.05548 sec
+Total Reserved Memory: 1931 MB
+Total Used Memory: 2497 MB
+System Used Memory: 2497 MB
+CPU mainthread time: 148.3 ms
+
+Record Time: 15.07646 sec
+Total Reserved Memory: 1931 MB
+Total Used Memory: 2497 MB
+System Used Memory: 2497 MB
+CPU mainthread time: 19.1 ms
+
+Record Time: 15.09609 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2513 MB
+System Used Memory: 2513 MB
+CPU mainthread time: 21.1 ms
+
+Record Time: 15.11609 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2513 MB
+System Used Memory: 2513 MB
+CPU mainthread time: 20.2 ms
+
+Record Time: 15.13568 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2513 MB
+System Used Memory: 2513 MB
+CPU mainthread time: 19.8 ms
+
+Record Time: 15.15506 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2514 MB
+System Used Memory: 2514 MB
+CPU mainthread time: 19.5 ms
+
+Record Time: 15.17445 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2514 MB
+System Used Memory: 2514 MB
+CPU mainthread time: 19.4 ms
+
+Record Time: 15.19316 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2514 MB
+System Used Memory: 2514 MB
+CPU mainthread time: 19.1 ms
+
+Record Time: 15.21593 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2514 MB
+System Used Memory: 2514 MB
+CPU mainthread time: 22.0 ms
+
+Record Time: 15.23498 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2514 MB
+System Used Memory: 2514 MB
+CPU mainthread time: 19.4 ms
+
+Record Time: 15.25436 sec
+Total Reserved Memory: 1947 MB
+Total Used Memory: 2514 MB
+System Used Memory: 2514 MB
+CPU mainthread time: 19.4 ms
+
+Record Time: 15.27357 sec
+Total Reserved Memory: 1963 MB
+Total Used Memory: 2530 MB
+System Used Memory: 2530 MB
+CPU mainthread time: 19.7 ms
+
+Record Time: 15.29326 sec
+Total Reserved Memory: 1963 MB
+Total Used Memory: 2530 MB
+System Used Memory: 2530 MB
+CPU mainthread time: 19.2 ms
+
+Record Time: 15.31583 sec
+Total Reserved Memory: 1963 MB
+Total Used Memory: 2531 MB
+System Used Memory: 2531 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 15.3357 sec
+Total Reserved Memory: 1979 MB
+Total Used Memory: 2547 MB
+System Used Memory: 2547 MB
+CPU mainthread time: 20.2 ms
+
+Record Time: 15.3565 sec
+Total Reserved Memory: 1979 MB
+Total Used Memory: 2547 MB
+System Used Memory: 2547 MB
+CPU mainthread time: 20.6 ms
+
+Record Time: 15.377 sec
+Total Reserved Memory: 1979 MB
+Total Used Memory: 2547 MB
+System Used Memory: 2547 MB
+CPU mainthread time: 20.6 ms
+
+Record Time: 15.39885 sec
+Total Reserved Memory: 1995 MB
+Total Used Memory: 2563 MB
+System Used Memory: 2563 MB
+CPU mainthread time: 21.8 ms
+
+Record Time: 15.41973 sec
+Total Reserved Memory: 1995 MB
+Total Used Memory: 2563 MB
+System Used Memory: 2563 MB
+CPU mainthread time: 20.9 ms
+
+Record Time: 15.44001 sec
+Total Reserved Memory: 2011 MB
+Total Used Memory: 2579 MB
+System Used Memory: 2579 MB
+CPU mainthread time: 20.3 ms
+
+Record Time: 15.46032 sec
+Total Reserved Memory: 2011 MB
+Total Used Memory: 2579 MB
+System Used Memory: 2579 MB
+CPU mainthread time: 20.3 ms
+
+Record Time: 15.48231 sec
+Total Reserved Memory: 2011 MB
+Total Used Memory: 2579 MB
+System Used Memory: 2579 MB
+CPU mainthread time: 21.9 ms
+
+Record Time: 15.50384 sec
+Total Reserved Memory: 2027 MB
+Total Used Memory: 2596 MB
+System Used Memory: 2596 MB
+CPU mainthread time: 21.6 ms
+
+Record Time: 15.52542 sec
+Total Reserved Memory: 2027 MB
+Total Used Memory: 2596 MB
+System Used Memory: 2596 MB
+CPU mainthread time: 21.4 ms
+
+Record Time: 15.54621 sec
+Total Reserved Memory: 2027 MB
+Total Used Memory: 2596 MB
+System Used Memory: 2596 MB
+CPU mainthread time: 20.9 ms
+
+Record Time: 15.56693 sec
+Total Reserved Memory: 2043 MB
+Total Used Memory: 2612 MB
+System Used Memory: 2612 MB
+CPU mainthread time: 20.7 ms
+
+Record Time: 15.5874 sec
+Total Reserved Memory: 2043 MB
+Total Used Memory: 2612 MB
+System Used Memory: 2612 MB
+CPU mainthread time: 20.5 ms
+
+Record Time: 15.60932 sec
+Total Reserved Memory: 2059 MB
+Total Used Memory: 2628 MB
+System Used Memory: 2628 MB
+CPU mainthread time: 21.0 ms
+
+Record Time: 15.63051 sec
+Total Reserved Memory: 2059 MB
+Total Used Memory: 2629 MB
+System Used Memory: 2629 MB
+CPU mainthread time: 22.1 ms
+
+Record Time: 15.65167 sec
+Total Reserved Memory: 2059 MB
+Total Used Memory: 2629 MB
+System Used Memory: 2629 MB
+CPU mainthread time: 20.8 ms
+
+Record Time: 15.67218 sec
+Total Reserved Memory: 2075 MB
+Total Used Memory: 2645 MB
+System Used Memory: 2645 MB
+CPU mainthread time: 20.8 ms
+
+Record Time: 15.69179 sec
+Total Reserved Memory: 2075 MB
+Total Used Memory: 2645 MB
+System Used Memory: 2645 MB
+CPU mainthread time: 20.1 ms
+
+Record Time: 15.71268 sec
+Total Reserved Memory: 2091 MB
+Total Used Memory: 2661 MB
+System Used Memory: 2661 MB
+CPU mainthread time: 20.5 ms
+
+Record Time: 15.73347 sec
+Total Reserved Memory: 2091 MB
+Total Used Memory: 2661 MB
+System Used Memory: 2661 MB
+CPU mainthread time: 20.4 ms
+
+Record Time: 15.75418 sec
+Total Reserved Memory: 2091 MB
+Total Used Memory: 2661 MB
+System Used Memory: 2661 MB
+CPU mainthread time: 21.1 ms
+
+Record Time: 15.77455 sec
+Total Reserved Memory: 2107 MB
+Total Used Memory: 2677 MB
+System Used Memory: 2677 MB
+CPU mainthread time: 20.3 ms
+
+Record Time: 15.79487 sec
+Total Reserved Memory: 2107 MB
+Total Used Memory: 2677 MB
+System Used Memory: 2677 MB
+CPU mainthread time: 20.9 ms
+
+Record Time: 15.81675 sec
+Total Reserved Memory: 2107 MB
+Total Used Memory: 2678 MB
+System Used Memory: 2678 MB
+CPU mainthread time: 21.0 ms
+
+Record Time: 15.83715 sec
+Total Reserved Memory: 2123 MB
+Total Used Memory: 2694 MB
+System Used Memory: 2694 MB
+CPU mainthread time: 20.8 ms
+
+Record Time: 15.85743 sec
+Total Reserved Memory: 2123 MB
+Total Used Memory: 2694 MB
+System Used Memory: 2694 MB
+CPU mainthread time: 20.4 ms
+
+Record Time: 15.87837 sec
+Total Reserved Memory: 2139 MB
+Total Used Memory: 2710 MB
+System Used Memory: 2710 MB
+CPU mainthread time: 20.8 ms
+
+Record Time: 15.89908 sec
+Total Reserved Memory: 2139 MB
+Total Used Memory: 2710 MB
+System Used Memory: 2710 MB
+CPU mainthread time: 20.8 ms
+
+Record Time: 15.92003 sec
+Total Reserved Memory: 2139 MB
+Total Used Memory: 2710 MB
+System Used Memory: 2710 MB
+CPU mainthread time: 21.0 ms
+
+Record Time: 15.94072 sec
+Total Reserved Memory: 2155 MB
+Total Used Memory: 2727 MB
+System Used Memory: 2727 MB
+CPU mainthread time: 20.7 ms
+
+Record Time: 15.96159 sec
+Total Reserved Memory: 2155 MB
+Total Used Memory: 2727 MB
+System Used Memory: 2727 MB
+CPU mainthread time: 20.9 ms
+
+Record Time: 15.98304 sec
+Total Reserved Memory: 2171 MB
+Total Used Memory: 2743 MB
+System Used Memory: 2743 MB
+CPU mainthread time: 21.4 ms
+
+Record Time: 16.00465 sec
+Total Reserved Memory: 2171 MB
+Total Used Memory: 2743 MB
+System Used Memory: 2743 MB
+CPU mainthread time: 21.6 ms
+
+Record Time: 16.02579 sec
+Total Reserved Memory: 2171 MB
+Total Used Memory: 2743 MB
+System Used Memory: 2743 MB
+CPU mainthread time: 21.3 ms
+
+Record Time: 16.04947 sec
+Total Reserved Memory: 2187 MB
+Total Used Memory: 2759 MB
+System Used Memory: 2759 MB
+CPU mainthread time: 23.1 ms
+
+Record Time: 16.07048 sec
+Total Reserved Memory: 2187 MB
+Total Used Memory: 2759 MB
+System Used Memory: 2759 MB
+CPU mainthread time: 21.5 ms
+
+Record Time: 16.09154 sec
+Total Reserved Memory: 2203 MB
+Total Used Memory: 2776 MB
+System Used Memory: 2776 MB
+CPU mainthread time: 21.5 ms
+
+Record Time: 16.11383 sec
+Total Reserved Memory: 2203 MB
+Total Used Memory: 2776 MB
+System Used Memory: 2776 MB
+CPU mainthread time: 21.2 ms
+
+Record Time: 16.13694 sec
+Total Reserved Memory: 2203 MB
+Total Used Memory: 2776 MB
+System Used Memory: 2776 MB
+CPU mainthread time: 23.0 ms
+
+Record Time: 16.1586 sec
+Total Reserved Memory: 2219 MB
+Total Used Memory: 2792 MB
+System Used Memory: 2792 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 16.17976 sec
+Total Reserved Memory: 2219 MB
+Total Used Memory: 2792 MB
+System Used Memory: 2792 MB
+CPU mainthread time: 21.1 ms
+
+Record Time: 16.20229 sec
+Total Reserved Memory: 2235 MB
+Total Used Memory: 2808 MB
+System Used Memory: 2808 MB
+CPU mainthread time: 22.6 ms
+
+Record Time: 16.22427 sec
+Total Reserved Memory: 2235 MB
+Total Used Memory: 2808 MB
+System Used Memory: 2808 MB
+CPU mainthread time: 21.9 ms
+
+Record Time: 16.24648 sec
+Total Reserved Memory: 2235 MB
+Total Used Memory: 2808 MB
+System Used Memory: 2808 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 16.26828 sec
+Total Reserved Memory: 2251 MB
+Total Used Memory: 2825 MB
+System Used Memory: 2825 MB
+CPU mainthread time: 21.6 ms
+
+Record Time: 16.28901 sec
+Total Reserved Memory: 2251 MB
+Total Used Memory: 2825 MB
+System Used Memory: 2825 MB
+CPU mainthread time: 21.4 ms
+
+Record Time: 16.31053 sec
+Total Reserved Memory: 2267 MB
+Total Used Memory: 2841 MB
+System Used Memory: 2841 MB
+CPU mainthread time: 21.0 ms
+
+Record Time: 16.33245 sec
+Total Reserved Memory: 2267 MB
+Total Used Memory: 2841 MB
+System Used Memory: 2841 MB
+CPU mainthread time: 21.6 ms
+
+Record Time: 16.35398 sec
+Total Reserved Memory: 2267 MB
+Total Used Memory: 2841 MB
+System Used Memory: 2841 MB
+CPU mainthread time: 21.8 ms
+
+Record Time: 16.3754 sec
+Total Reserved Memory: 2283 MB
+Total Used Memory: 2857 MB
+System Used Memory: 2857 MB
+CPU mainthread time: 21.4 ms
+
+Record Time: 16.39894 sec
+Total Reserved Memory: 2283 MB
+Total Used Memory: 2858 MB
+System Used Memory: 2858 MB
+CPU mainthread time: 23.4 ms
+
+Record Time: 16.42118 sec
+Total Reserved Memory: 2299 MB
+Total Used Memory: 2874 MB
+System Used Memory: 2874 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 16.44269 sec
+Total Reserved Memory: 2299 MB
+Total Used Memory: 2874 MB
+System Used Memory: 2874 MB
+CPU mainthread time: 21.6 ms
+
+Record Time: 16.46593 sec
+Total Reserved Memory: 2299 MB
+Total Used Memory: 2874 MB
+System Used Memory: 2874 MB
+CPU mainthread time: 22.9 ms
+
+Record Time: 16.48732 sec
+Total Reserved Memory: 2315 MB
+Total Used Memory: 2890 MB
+System Used Memory: 2890 MB
+CPU mainthread time: 22.2 ms
+
+Record Time: 16.50988 sec
+Total Reserved Memory: 2315 MB
+Total Used Memory: 2890 MB
+System Used Memory: 2890 MB
+CPU mainthread time: 22.1 ms
+
+Record Time: 16.53271 sec
+Total Reserved Memory: 2331 MB
+Total Used Memory: 2906 MB
+System Used Memory: 2906 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 16.55475 sec
+Total Reserved Memory: 2331 MB
+Total Used Memory: 2906 MB
+System Used Memory: 2906 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 16.57658 sec
+Total Reserved Memory: 2331 MB
+Total Used Memory: 2907 MB
+System Used Memory: 2907 MB
+CPU mainthread time: 21.8 ms
+
+Record Time: 16.59871 sec
+Total Reserved Memory: 2347 MB
+Total Used Memory: 2923 MB
+System Used Memory: 2923 MB
+CPU mainthread time: 22.2 ms
+
+Record Time: 16.62239 sec
+Total Reserved Memory: 2347 MB
+Total Used Memory: 2923 MB
+System Used Memory: 2923 MB
+CPU mainthread time: 22.6 ms
+
+Record Time: 16.80281 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2939 MB
+System Used Memory: 2939 MB
+CPU mainthread time: 181.4 ms
+
+Record Time: 16.82623 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2939 MB
+System Used Memory: 2939 MB
+CPU mainthread time: 21.2 ms
+
+Record Time: 16.84926 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2939 MB
+System Used Memory: 2939 MB
+CPU mainthread time: 25.0 ms
+
+Record Time: 16.87008 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2939 MB
+System Used Memory: 2939 MB
+CPU mainthread time: 21.1 ms
+
+Record Time: 16.89891 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2940 MB
+System Used Memory: 2940 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 16.92016 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2940 MB
+System Used Memory: 2940 MB
+CPU mainthread time: 21.1 ms
+
+Record Time: 16.94901 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2940 MB
+System Used Memory: 2940 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 16.97036 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2940 MB
+System Used Memory: 2940 MB
+CPU mainthread time: 21.4 ms
+
+Record Time: 16.99885 sec
+Total Reserved Memory: 2363 MB
+Total Used Memory: 2940 MB
+System Used Memory: 2940 MB
+CPU mainthread time: 28.7 ms
+
+Record Time: 17.02022 sec
+Total Reserved Memory: 2379 MB
+Total Used Memory: 2956 MB
+System Used Memory: 2956 MB
+CPU mainthread time: 21.3 ms
+
+Record Time: 17.04224 sec
+Total Reserved Memory: 2379 MB
+Total Used Memory: 2956 MB
+System Used Memory: 2956 MB
+CPU mainthread time: 22.0 ms
+
+Record Time: 17.06411 sec
+Total Reserved Memory: 2379 MB
+Total Used Memory: 2956 MB
+System Used Memory: 2956 MB
+CPU mainthread time: 21.8 ms
+
+Record Time: 17.0857 sec
+Total Reserved Memory: 2379 MB
+Total Used Memory: 2956 MB
+System Used Memory: 2956 MB
+CPU mainthread time: 21.7 ms
+
+Record Time: 17.10669 sec
+Total Reserved Memory: 2379 MB
+Total Used Memory: 2956 MB
+System Used Memory: 2956 MB
+CPU mainthread time: 21.0 ms
+
+Record Time: 17.13221 sec
+Total Reserved Memory: 2379 MB
+Total Used Memory: 2957 MB
+System Used Memory: 2957 MB
+CPU mainthread time: 24.5 ms
+
+Record Time: 17.15479 sec
+Total Reserved Memory: 2395 MB
+Total Used Memory: 2973 MB
+System Used Memory: 2973 MB
+CPU mainthread time: 23.2 ms
+
+Record Time: 17.17706 sec
+Total Reserved Memory: 2395 MB
+Total Used Memory: 2973 MB
+System Used Memory: 2973 MB
+CPU mainthread time: 22.7 ms
+
+Record Time: 17.1992 sec
+Total Reserved Memory: 2411 MB
+Total Used Memory: 2989 MB
+System Used Memory: 2989 MB
+CPU mainthread time: 22.1 ms
+
+Record Time: 17.22187 sec
+Total Reserved Memory: 2411 MB
+Total Used Memory: 2989 MB
+System Used Memory: 2989 MB
+CPU mainthread time: 22.6 ms
+
+Record Time: 17.24443 sec
+Total Reserved Memory: 2411 MB
+Total Used Memory: 2989 MB
+System Used Memory: 2989 MB
+CPU mainthread time: 22.6 ms
+
+Record Time: 17.2669 sec
+Total Reserved Memory: 2427 MB
+Total Used Memory: 3006 MB
+System Used Memory: 3006 MB
+CPU mainthread time: 22.1 ms
+
+Record Time: 17.28835 sec
+Total Reserved Memory: 2427 MB
+Total Used Memory: 3006 MB
+System Used Memory: 3006 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 17.31077 sec
+Total Reserved Memory: 2443 MB
+Total Used Memory: 3022 MB
+System Used Memory: 3022 MB
+CPU mainthread time: 21.9 ms
+
+Record Time: 17.33322 sec
+Total Reserved Memory: 2443 MB
+Total Used Memory: 3022 MB
+System Used Memory: 3022 MB
+CPU mainthread time: 22.2 ms
+
+Record Time: 17.35615 sec
+Total Reserved Memory: 2459 MB
+Total Used Memory: 3038 MB
+System Used Memory: 3038 MB
+CPU mainthread time: 23.2 ms
+
+Record Time: 17.37792 sec
+Total Reserved Memory: 2459 MB
+Total Used Memory: 3038 MB
+System Used Memory: 3038 MB
+CPU mainthread time: 21.8 ms
+
+Record Time: 17.40098 sec
+Total Reserved Memory: 2459 MB
+Total Used Memory: 3038 MB
+System Used Memory: 3038 MB
+CPU mainthread time: 23.0 ms
+
+Record Time: 17.42365 sec
+Total Reserved Memory: 2475 MB
+Total Used Memory: 3055 MB
+System Used Memory: 3055 MB
+CPU mainthread time: 22.6 ms
+
+Record Time: 17.44596 sec
+Total Reserved Memory: 2475 MB
+Total Used Memory: 3055 MB
+System Used Memory: 3055 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 17.46851 sec
+Total Reserved Memory: 2491 MB
+Total Used Memory: 3071 MB
+System Used Memory: 3071 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 17.49027 sec
+Total Reserved Memory: 2491 MB
+Total Used Memory: 3071 MB
+System Used Memory: 3071 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 17.51264 sec
+Total Reserved Memory: 2507 MB
+Total Used Memory: 3087 MB
+System Used Memory: 3087 MB
+CPU mainthread time: 21.9 ms
+
+Record Time: 17.53549 sec
+Total Reserved Memory: 2507 MB
+Total Used Memory: 3087 MB
+System Used Memory: 3087 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 17.55831 sec
+Total Reserved Memory: 2507 MB
+Total Used Memory: 3088 MB
+System Used Memory: 3088 MB
+CPU mainthread time: 23.2 ms
+
+Record Time: 17.58079 sec
+Total Reserved Memory: 2523 MB
+Total Used Memory: 3104 MB
+System Used Memory: 3104 MB
+CPU mainthread time: 22.4 ms
+
+Record Time: 17.60353 sec
+Total Reserved Memory: 2523 MB
+Total Used Memory: 3104 MB
+System Used Memory: 3104 MB
+CPU mainthread time: 22.8 ms
+
+Record Time: 17.62715 sec
+Total Reserved Memory: 2539 MB
+Total Used Memory: 3120 MB
+System Used Memory: 3120 MB
+CPU mainthread time: 22.6 ms
+
+Record Time: 17.65012 sec
+Total Reserved Memory: 2539 MB
+Total Used Memory: 3120 MB
+System Used Memory: 3120 MB
+CPU mainthread time: 24.0 ms
+
+Record Time: 17.67315 sec
+Total Reserved Memory: 2555 MB
+Total Used Memory: 3136 MB
+System Used Memory: 3136 MB
+CPU mainthread time: 22.7 ms
+
+Record Time: 17.69505 sec
+Total Reserved Memory: 2555 MB
+Total Used Memory: 3136 MB
+System Used Memory: 3136 MB
+CPU mainthread time: 22.7 ms
+
+Record Time: 17.718 sec
+Total Reserved Memory: 2555 MB
+Total Used Memory: 3136 MB
+System Used Memory: 3136 MB
+CPU mainthread time: 22.2 ms
+
+Record Time: 17.74087 sec
+Total Reserved Memory: 2571 MB
+Total Used Memory: 3153 MB
+System Used Memory: 3153 MB
+CPU mainthread time: 23.1 ms
+
+Record Time: 17.76322 sec
+Total Reserved Memory: 2571 MB
+Total Used Memory: 3153 MB
+System Used Memory: 3153 MB
+CPU mainthread time: 22.3 ms
+
+Record Time: 17.78621 sec
+Total Reserved Memory: 2587 MB
+Total Used Memory: 3169 MB
+System Used Memory: 3169 MB
+CPU mainthread time: 23.0 ms
+
+Record Time: 17.80873 sec
+Total Reserved Memory: 2587 MB
+Total Used Memory: 3169 MB
+System Used Memory: 3169 MB
+CPU mainthread time: 22.6 ms
+
+Record Time: 17.83242 sec
+Total Reserved Memory: 2603 MB
+Total Used Memory: 3185 MB
+System Used Memory: 3185 MB
+CPU mainthread time: 23.6 ms
+
+Record Time: 17.85579 sec
+Total Reserved Memory: 2603 MB
+Total Used Memory: 3185 MB
+System Used Memory: 3185 MB
+CPU mainthread time: 23.1 ms
+
+Record Time: 17.87864 sec
+Total Reserved Memory: 2603 MB
+Total Used Memory: 3186 MB
+System Used Memory: 3186 MB
+CPU mainthread time: 23.2 ms
+
+Record Time: 17.90135 sec
+Total Reserved Memory: 2619 MB
+Total Used Memory: 3202 MB
+System Used Memory: 3202 MB
+CPU mainthread time: 22.7 ms
+
+Record Time: 17.92385 sec
+Total Reserved Memory: 2619 MB
+Total Used Memory: 3202 MB
+System Used Memory: 3202 MB
+CPU mainthread time: 22.5 ms
+
+Record Time: 17.9473 sec
+Total Reserved Memory: 2635 MB
+Total Used Memory: 3218 MB
+System Used Memory: 3218 MB
+CPU mainthread time: 23.4 ms
+
+Record Time: 17.97064 sec
+Total Reserved Memory: 2635 MB
+Total Used Memory: 3218 MB
+System Used Memory: 3218 MB
+CPU mainthread time: 23.1 ms
+
+Record Time: 17.99365 sec
+Total Reserved Memory: 2651 MB
+Total Used Memory: 3235 MB
+System Used Memory: 3235 MB
+CPU mainthread time: 23.7 ms
+
+Record Time: 18.01688 sec
+Total Reserved Memory: 2651 MB
+Total Used Memory: 3235 MB
+System Used Memory: 3235 MB
+CPU mainthread time: 22.4 ms
+
+Record Time: 18.04047 sec
+Total Reserved Memory: 2667 MB
+Total Used Memory: 3251 MB
+System Used Memory: 3251 MB
+CPU mainthread time: 23.9 ms
+
+Record Time: 18.06368 sec
+Total Reserved Memory: 2667 MB
+Total Used Memory: 3251 MB
+System Used Memory: 3251 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 18.08652 sec
+Total Reserved Memory: 2667 MB
+Total Used Memory: 3251 MB
+System Used Memory: 3251 MB
+CPU mainthread time: 22.8 ms
+
+Record Time: 18.10963 sec
+Total Reserved Memory: 2683 MB
+Total Used Memory: 3267 MB
+System Used Memory: 3267 MB
+CPU mainthread time: 23.1 ms
+
+Record Time: 18.13438 sec
+Total Reserved Memory: 2683 MB
+Total Used Memory: 3267 MB
+System Used Memory: 3267 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 18.15799 sec
+Total Reserved Memory: 2699 MB
+Total Used Memory: 3283 MB
+System Used Memory: 3283 MB
+CPU mainthread time: 25.1 ms
+
+Record Time: 18.18189 sec
+Total Reserved Memory: 2699 MB
+Total Used Memory: 3284 MB
+System Used Memory: 3284 MB
+CPU mainthread time: 23.8 ms
+
+Record Time: 18.20659 sec
+Total Reserved Memory: 2715 MB
+Total Used Memory: 3300 MB
+System Used Memory: 3300 MB
+CPU mainthread time: 24.7 ms
+
+Record Time: 18.23059 sec
+Total Reserved Memory: 2715 MB
+Total Used Memory: 3300 MB
+System Used Memory: 3300 MB
+CPU mainthread time: 24.1 ms
+
+Record Time: 18.25463 sec
+Total Reserved Memory: 2715 MB
+Total Used Memory: 3300 MB
+System Used Memory: 3300 MB
+CPU mainthread time: 23.8 ms
+
+Record Time: 18.27761 sec
+Total Reserved Memory: 2731 MB
+Total Used Memory: 3316 MB
+System Used Memory: 3316 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 18.30106 sec
+Total Reserved Memory: 2731 MB
+Total Used Memory: 3316 MB
+System Used Memory: 3316 MB
+CPU mainthread time: 23.5 ms
+
+Record Time: 18.32443 sec
+Total Reserved Memory: 2747 MB
+Total Used Memory: 3333 MB
+System Used Memory: 3333 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 18.34813 sec
+Total Reserved Memory: 2747 MB
+Total Used Memory: 3333 MB
+System Used Memory: 3333 MB
+CPU mainthread time: 23.7 ms
+
+Record Time: 18.37164 sec
+Total Reserved Memory: 2763 MB
+Total Used Memory: 3349 MB
+System Used Memory: 3349 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 18.39446 sec
+Total Reserved Memory: 2763 MB
+Total Used Memory: 3349 MB
+System Used Memory: 3349 MB
+CPU mainthread time: 23.6 ms
+
+Record Time: 18.41834 sec
+Total Reserved Memory: 2779 MB
+Total Used Memory: 3365 MB
+System Used Memory: 3365 MB
+CPU mainthread time: 23.1 ms
+
+Record Time: 18.44152 sec
+Total Reserved Memory: 2779 MB
+Total Used Memory: 3365 MB
+System Used Memory: 3365 MB
+CPU mainthread time: 23.5 ms
+
+Record Time: 18.46537 sec
+Total Reserved Memory: 2779 MB
+Total Used Memory: 3365 MB
+System Used Memory: 3365 MB
+CPU mainthread time: 23.8 ms
+
+Record Time: 18.48875 sec
+Total Reserved Memory: 2795 MB
+Total Used Memory: 3382 MB
+System Used Memory: 3382 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 18.51147 sec
+Total Reserved Memory: 2795 MB
+Total Used Memory: 3382 MB
+System Used Memory: 3382 MB
+CPU mainthread time: 22.8 ms
+
+Record Time: 18.53513 sec
+Total Reserved Memory: 2811 MB
+Total Used Memory: 3398 MB
+System Used Memory: 3398 MB
+CPU mainthread time: 23.2 ms
+
+Record Time: 18.5591 sec
+Total Reserved Memory: 2811 MB
+Total Used Memory: 3398 MB
+System Used Memory: 3398 MB
+CPU mainthread time: 24.3 ms
+
+Record Time: 18.58226 sec
+Total Reserved Memory: 2827 MB
+Total Used Memory: 3414 MB
+System Used Memory: 3414 MB
+CPU mainthread time: 23.2 ms
+
+Record Time: 18.60592 sec
+Total Reserved Memory: 2827 MB
+Total Used Memory: 3414 MB
+System Used Memory: 3414 MB
+CPU mainthread time: 23.6 ms
+
+Record Time: 18.63023 sec
+Total Reserved Memory: 2843 MB
+Total Used Memory: 3431 MB
+System Used Memory: 3431 MB
+CPU mainthread time: 23.8 ms
+
+Record Time: 18.65473 sec
+Total Reserved Memory: 2843 MB
+Total Used Memory: 3431 MB
+System Used Memory: 3431 MB
+CPU mainthread time: 24.5 ms
+
+Record Time: 18.67841 sec
+Total Reserved Memory: 2859 MB
+Total Used Memory: 3447 MB
+System Used Memory: 3447 MB
+CPU mainthread time: 24.2 ms
+
+Record Time: 18.70162 sec
+Total Reserved Memory: 2859 MB
+Total Used Memory: 3447 MB
+System Used Memory: 3447 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 18.725 sec
+Total Reserved Memory: 2859 MB
+Total Used Memory: 3447 MB
+System Used Memory: 3447 MB
+CPU mainthread time: 23.4 ms
+
+Record Time: 18.94164 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3463 MB
+System Used Memory: 3463 MB
+CPU mainthread time: 216.6 ms
+
+Record Time: 18.96909 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3463 MB
+System Used Memory: 3463 MB
+CPU mainthread time: 24.2 ms
+
+Record Time: 18.99863 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3463 MB
+System Used Memory: 3463 MB
+CPU mainthread time: 33.1 ms
+
+Record Time: 19.02268 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3464 MB
+System Used Memory: 3464 MB
+CPU mainthread time: 23.3 ms
+
+Record Time: 19.04937 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3464 MB
+System Used Memory: 3464 MB
+CPU mainthread time: 26.9 ms
+
+Record Time: 19.08279 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3464 MB
+System Used Memory: 3464 MB
+CPU mainthread time: 33.3 ms
+
+Record Time: 19.11578 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3464 MB
+System Used Memory: 3464 MB
+CPU mainthread time: 33.4 ms
+
+Record Time: 19.1498 sec
+Total Reserved Memory: 2875 MB
+Total Used Memory: 3464 MB
+System Used Memory: 3464 MB
+CPU mainthread time: 33.6 ms
+
+Record Time: 19.18355 sec
+Total Reserved Memory: 2891 MB
+Total Used Memory: 3480 MB
+System Used Memory: 3480 MB
+CPU mainthread time: 32.9 ms
+
+Record Time: 19.20648 sec
+Total Reserved Memory: 2891 MB
+Total Used Memory: 3481 MB
+System Used Memory: 3481 MB
+CPU mainthread time: 24.2 ms
+
+Record Time: 19.22971 sec
+Total Reserved Memory: 2891 MB
+Total Used Memory: 3481 MB
+System Used Memory: 3481 MB
+CPU mainthread time: 23.1 ms
+
+Record Time: 19.25312 sec
+Total Reserved Memory: 2891 MB
+Total Used Memory: 3481 MB
+System Used Memory: 3481 MB
+CPU mainthread time: 23.4 ms
+
+Record Time: 19.27713 sec
+Total Reserved Memory: 2891 MB
+Total Used Memory: 3481 MB
+System Used Memory: 3481 MB
+CPU mainthread time: 23.8 ms
+
+Record Time: 19.30107 sec
+Total Reserved Memory: 2891 MB
+Total Used Memory: 3481 MB
+System Used Memory: 3481 MB
+CPU mainthread time: 24.6 ms
+
+Record Time: 19.32476 sec
+Total Reserved Memory: 2891 MB
+Total Used Memory: 3481 MB
+System Used Memory: 3481 MB
+CPU mainthread time: 23.0 ms
+
+Record Time: 19.34836 sec
+Total Reserved Memory: 2907 MB
+Total Used Memory: 3498 MB
+System Used Memory: 3498 MB
+CPU mainthread time: 24.0 ms
+
+Record Time: 19.37257 sec
+Total Reserved Memory: 2907 MB
+Total Used Memory: 3498 MB
+System Used Memory: 3498 MB
+CPU mainthread time: 23.9 ms
+
+Record Time: 19.39693 sec
+Total Reserved Memory: 2923 MB
+Total Used Memory: 3514 MB
+System Used Memory: 3514 MB
+CPU mainthread time: 25.0 ms
+
+Record Time: 19.42262 sec
+Total Reserved Memory: 2923 MB
+Total Used Memory: 3514 MB
+System Used Memory: 3514 MB
+CPU mainthread time: 25.2 ms
+
+Record Time: 19.44807 sec
+Total Reserved Memory: 2939 MB
+Total Used Memory: 3530 MB
+System Used Memory: 3530 MB
+CPU mainthread time: 25.1 ms
+
+Record Time: 19.47327 sec
+Total Reserved Memory: 2939 MB
+Total Used Memory: 3530 MB
+System Used Memory: 3530 MB
+CPU mainthread time: 25.3 ms
+
+Record Time: 19.49819 sec
+Total Reserved Memory: 2955 MB
+Total Used Memory: 3546 MB
+System Used Memory: 3546 MB
+CPU mainthread time: 25.5 ms
+
+Record Time: 19.52473 sec
+Total Reserved Memory: 2955 MB
+Total Used Memory: 3546 MB
+System Used Memory: 3546 MB
+CPU mainthread time: 25.8 ms
+
+Record Time: 19.5503 sec
+Total Reserved Memory: 2955 MB
+Total Used Memory: 3547 MB
+System Used Memory: 3547 MB
+CPU mainthread time: 25.8 ms
+
+Record Time: 19.57624 sec
+Total Reserved Memory: 2971 MB
+Total Used Memory: 3563 MB
+System Used Memory: 3563 MB
+CPU mainthread time: 25.8 ms
+
+Record Time: 19.60107 sec
+Total Reserved Memory: 2971 MB
+Total Used Memory: 3563 MB
+System Used Memory: 3563 MB
+CPU mainthread time: 25.6 ms
+
+Record Time: 19.6266 sec
+Total Reserved Memory: 2987 MB
+Total Used Memory: 3579 MB
+System Used Memory: 3579 MB
+CPU mainthread time: 24.6 ms
+
+Record Time: 19.65224 sec
+Total Reserved Memory: 2987 MB
+Total Used Memory: 3579 MB
+System Used Memory: 3579 MB
+CPU mainthread time: 26.2 ms
+
+Record Time: 19.67769 sec
+Total Reserved Memory: 3003 MB
+Total Used Memory: 3596 MB
+System Used Memory: 3596 MB
+CPU mainthread time: 25.2 ms
+
+Record Time: 19.70261 sec
+Total Reserved Memory: 3003 MB
+Total Used Memory: 3596 MB
+System Used Memory: 3596 MB
+CPU mainthread time: 25.0 ms
+
+Record Time: 19.72781 sec
+Total Reserved Memory: 3019 MB
+Total Used Memory: 3612 MB
+System Used Memory: 3612 MB
+CPU mainthread time: 24.6 ms
+
+Record Time: 19.7524 sec
+Total Reserved Memory: 3019 MB
+Total Used Memory: 3612 MB
+System Used Memory: 3612 MB
+CPU mainthread time: 25.4 ms
+
+Record Time: 19.77763 sec
+Total Reserved Memory: 3035 MB
+Total Used Memory: 3628 MB
+System Used Memory: 3628 MB
+CPU mainthread time: 24.8 ms
+
+Record Time: 19.80219 sec
+Total Reserved Memory: 3035 MB
+Total Used Memory: 3628 MB
+System Used Memory: 3628 MB
+CPU mainthread time: 25.4 ms
+
+Record Time: 19.82778 sec
+Total Reserved Memory: 3051 MB
+Total Used Memory: 3644 MB
+System Used Memory: 3644 MB
+CPU mainthread time: 24.8 ms
+
+Record Time: 19.85251 sec
+Total Reserved Memory: 3051 MB
+Total Used Memory: 3645 MB
+System Used Memory: 3645 MB
+CPU mainthread time: 25.0 ms
+
+Record Time: 19.87738 sec
+Total Reserved Memory: 3067 MB
+Total Used Memory: 3661 MB
+System Used Memory: 3661 MB
+CPU mainthread time: 24.5 ms
+
+Record Time: 19.90253 sec
+Total Reserved Memory: 3067 MB
+Total Used Memory: 3661 MB
+System Used Memory: 3661 MB
+CPU mainthread time: 25.9 ms
+
+Record Time: 19.92835 sec
+Total Reserved Memory: 3083 MB
+Total Used Memory: 3677 MB
+System Used Memory: 3677 MB
+CPU mainthread time: 25.1 ms
+
+Record Time: 19.95385 sec
+Total Reserved Memory: 3083 MB
+Total Used Memory: 3677 MB
+System Used Memory: 3677 MB
+CPU mainthread time: 25.9 ms
+
+Record Time: 19.97923 sec
+Total Reserved Memory: 3083 MB
+Total Used Memory: 3678 MB
+System Used Memory: 3678 MB
+CPU mainthread time: 25.0 ms
+
+Record Time: 20.00459 sec
+Total Reserved Memory: 3099 MB
+Total Used Memory: 3694 MB
+System Used Memory: 3694 MB
+CPU mainthread time: 26.1 ms
+
+Record Time: 20.03051 sec
+Total Reserved Memory: 3099 MB
+Total Used Memory: 3694 MB
+System Used Memory: 3694 MB
+CPU mainthread time: 25.0 ms
+
+Record Time: 20.05644 sec
+Total Reserved Memory: 3115 MB
+Total Used Memory: 3710 MB
+System Used Memory: 3710 MB
+CPU mainthread time: 26.4 ms
+
+Record Time: 20.08351 sec
+Total Reserved Memory: 3115 MB
+Total Used Memory: 3710 MB
+System Used Memory: 3710 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 20.10992 sec
+Total Reserved Memory: 3131 MB
+Total Used Memory: 3726 MB
+System Used Memory: 3726 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 20.13646 sec
+Total Reserved Memory: 3131 MB
+Total Used Memory: 3726 MB
+System Used Memory: 3726 MB
+CPU mainthread time: 26.6 ms
+
+Record Time: 20.16392 sec
+Total Reserved Memory: 3147 MB
+Total Used Memory: 3743 MB
+System Used Memory: 3743 MB
+CPU mainthread time: 27.1 ms
+
+Record Time: 20.18998 sec
+Total Reserved Memory: 3147 MB
+Total Used Memory: 3743 MB
+System Used Memory: 3743 MB
+CPU mainthread time: 26.5 ms
+
+Record Time: 20.2168 sec
+Total Reserved Memory: 3163 MB
+Total Used Memory: 3759 MB
+System Used Memory: 3759 MB
+CPU mainthread time: 25.8 ms
+
+Record Time: 20.24308 sec
+Total Reserved Memory: 3163 MB
+Total Used Memory: 3759 MB
+System Used Memory: 3759 MB
+CPU mainthread time: 27.1 ms
+
+Record Time: 20.2691 sec
+Total Reserved Memory: 3179 MB
+Total Used Memory: 3775 MB
+System Used Memory: 3775 MB
+CPU mainthread time: 26.3 ms
+
+Record Time: 20.29495 sec
+Total Reserved Memory: 3179 MB
+Total Used Memory: 3776 MB
+System Used Memory: 3776 MB
+CPU mainthread time: 25.9 ms
+
+Record Time: 20.32048 sec
+Total Reserved Memory: 3195 MB
+Total Used Memory: 3792 MB
+System Used Memory: 3792 MB
+CPU mainthread time: 25.5 ms
+
+Record Time: 20.34652 sec
+Total Reserved Memory: 3195 MB
+Total Used Memory: 3792 MB
+System Used Memory: 3792 MB
+CPU mainthread time: 25.8 ms
+
+Record Time: 20.37232 sec
+Total Reserved Memory: 3211 MB
+Total Used Memory: 3808 MB
+System Used Memory: 3808 MB
+CPU mainthread time: 26.1 ms
+
+Record Time: 20.39859 sec
+Total Reserved Memory: 3211 MB
+Total Used Memory: 3808 MB
+System Used Memory: 3808 MB
+CPU mainthread time: 26.1 ms
+
+Record Time: 20.42606 sec
+Total Reserved Memory: 3227 MB
+Total Used Memory: 3824 MB
+System Used Memory: 3824 MB
+CPU mainthread time: 26.9 ms
+
+Record Time: 20.45367 sec
+Total Reserved Memory: 3227 MB
+Total Used Memory: 3825 MB
+System Used Memory: 3825 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 20.48193 sec
+Total Reserved Memory: 3243 MB
+Total Used Memory: 3841 MB
+System Used Memory: 3841 MB
+CPU mainthread time: 28.0 ms
+
+Record Time: 20.50844 sec
+Total Reserved Memory: 3243 MB
+Total Used Memory: 3841 MB
+System Used Memory: 3841 MB
+CPU mainthread time: 26.8 ms
+
+Record Time: 20.53557 sec
+Total Reserved Memory: 3259 MB
+Total Used Memory: 3857 MB
+System Used Memory: 3857 MB
+CPU mainthread time: 27.1 ms
+
+Record Time: 20.56338 sec
+Total Reserved Memory: 3259 MB
+Total Used Memory: 3857 MB
+System Used Memory: 3857 MB
+CPU mainthread time: 27.3 ms
+
+Record Time: 20.5897 sec
+Total Reserved Memory: 3275 MB
+Total Used Memory: 3873 MB
+System Used Memory: 3873 MB
+CPU mainthread time: 26.8 ms
+
+Record Time: 20.61712 sec
+Total Reserved Memory: 3275 MB
+Total Used Memory: 3874 MB
+System Used Memory: 3874 MB
+CPU mainthread time: 27.5 ms
+
+Record Time: 20.64431 sec
+Total Reserved Memory: 3291 MB
+Total Used Memory: 3890 MB
+System Used Memory: 3890 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 20.67101 sec
+Total Reserved Memory: 3291 MB
+Total Used Memory: 3890 MB
+System Used Memory: 3890 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 20.69756 sec
+Total Reserved Memory: 3307 MB
+Total Used Memory: 3906 MB
+System Used Memory: 3906 MB
+CPU mainthread time: 26.4 ms
+
+Record Time: 20.7255 sec
+Total Reserved Memory: 3307 MB
+Total Used Memory: 3906 MB
+System Used Memory: 3906 MB
+CPU mainthread time: 26.9 ms
+
+Record Time: 20.75291 sec
+Total Reserved Memory: 3323 MB
+Total Used Memory: 3923 MB
+System Used Memory: 3923 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 20.77875 sec
+Total Reserved Memory: 3323 MB
+Total Used Memory: 3923 MB
+System Used Memory: 3923 MB
+CPU mainthread time: 25.9 ms
+
+Record Time: 20.80517 sec
+Total Reserved Memory: 3339 MB
+Total Used Memory: 3939 MB
+System Used Memory: 3939 MB
+CPU mainthread time: 27.1 ms
+
+Record Time: 20.83166 sec
+Total Reserved Memory: 3339 MB
+Total Used Memory: 3939 MB
+System Used Memory: 3939 MB
+CPU mainthread time: 25.5 ms
+
+Record Time: 20.85896 sec
+Total Reserved Memory: 3339 MB
+Total Used Memory: 3939 MB
+System Used Memory: 3939 MB
+CPU mainthread time: 27.4 ms
+
+Record Time: 20.88483 sec
+Total Reserved Memory: 3355 MB
+Total Used Memory: 3955 MB
+System Used Memory: 3955 MB
+CPU mainthread time: 26.3 ms
+
+Record Time: 20.911 sec
+Total Reserved Memory: 3355 MB
+Total Used Memory: 3955 MB
+System Used Memory: 3955 MB
+CPU mainthread time: 26.2 ms
+
+Record Time: 20.93752 sec
+Total Reserved Memory: 3371 MB
+Total Used Memory: 3972 MB
+System Used Memory: 3972 MB
+CPU mainthread time: 26.5 ms
+
+Record Time: 20.96377 sec
+Total Reserved Memory: 3371 MB
+Total Used Memory: 3972 MB
+System Used Memory: 3972 MB
+CPU mainthread time: 26.0 ms
+
+Record Time: 20.99013 sec
+Total Reserved Memory: 3387 MB
+Total Used Memory: 3988 MB
+System Used Memory: 3988 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 21.01643 sec
+Total Reserved Memory: 3387 MB
+Total Used Memory: 3988 MB
+System Used Memory: 3988 MB
+CPU mainthread time: 26.2 ms
+
+Record Time: 21.04373 sec
+Total Reserved Memory: 3403 MB
+Total Used Memory: 4004 MB
+System Used Memory: 4004 MB
+CPU mainthread time: 26.6 ms
+
+Record Time: 21.07041 sec
+Total Reserved Memory: 3403 MB
+Total Used Memory: 4005 MB
+System Used Memory: 4005 MB
+CPU mainthread time: 27.4 ms
+
+Record Time: 21.09689 sec
+Total Reserved Memory: 3419 MB
+Total Used Memory: 4021 MB
+System Used Memory: 4021 MB
+CPU mainthread time: 26.4 ms
+
+Record Time: 21.12386 sec
+Total Reserved Memory: 3419 MB
+Total Used Memory: 4021 MB
+System Used Memory: 4021 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 21.15038 sec
+Total Reserved Memory: 3435 MB
+Total Used Memory: 4037 MB
+System Used Memory: 4037 MB
+CPU mainthread time: 26.8 ms
+
+Record Time: 21.17754 sec
+Total Reserved Memory: 3435 MB
+Total Used Memory: 4037 MB
+System Used Memory: 4037 MB
+CPU mainthread time: 26.8 ms
+
+Record Time: 21.20331 sec
+Total Reserved Memory: 3451 MB
+Total Used Memory: 4053 MB
+System Used Memory: 4053 MB
+CPU mainthread time: 26.6 ms
+
+Record Time: 21.23105 sec
+Total Reserved Memory: 3451 MB
+Total Used Memory: 4053 MB
+System Used Memory: 4053 MB
+CPU mainthread time: 26.0 ms
+
+Record Time: 21.25785 sec
+Total Reserved Memory: 3467 MB
+Total Used Memory: 4070 MB
+System Used Memory: 4070 MB
+CPU mainthread time: 27.7 ms
+
+Record Time: 21.28373 sec
+Total Reserved Memory: 3467 MB
+Total Used Memory: 4070 MB
+System Used Memory: 4070 MB
+CPU mainthread time: 26.1 ms
+
+Record Time: 21.31023 sec
+Total Reserved Memory: 3483 MB
+Total Used Memory: 4086 MB
+System Used Memory: 4086 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 21.33661 sec
+Total Reserved Memory: 3483 MB
+Total Used Memory: 4086 MB
+System Used Memory: 4086 MB
+CPU mainthread time: 26.4 ms
+
+Record Time: 21.61728 sec
+Total Reserved Memory: 3499 MB
+Total Used Memory: 4102 MB
+System Used Memory: 4102 MB
+CPU mainthread time: 280.2 ms
+
+Record Time: 21.64326 sec
+Total Reserved Memory: 3499 MB
+Total Used Memory: 4102 MB
+System Used Memory: 4102 MB
+CPU mainthread time: 26.3 ms
+
+Record Time: 21.67367 sec
+Total Reserved Memory: 3499 MB
+Total Used Memory: 4103 MB
+System Used Memory: 4103 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 21.69983 sec
+Total Reserved Memory: 3499 MB
+Total Used Memory: 4103 MB
+System Used Memory: 4103 MB
+CPU mainthread time: 29.9 ms
+
+Record Time: 21.72795 sec
+Total Reserved Memory: 3499 MB
+Total Used Memory: 4103 MB
+System Used Memory: 4103 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 21.75402 sec
+Total Reserved Memory: 3499 MB
+Total Used Memory: 4103 MB
+System Used Memory: 4103 MB
+CPU mainthread time: 27.1 ms
+
+Record Time: 21.7827 sec
+Total Reserved Memory: 3499 MB
+Total Used Memory: 4103 MB
+System Used Memory: 4103 MB
+CPU mainthread time: 28.3 ms
+
+Record Time: 21.80857 sec
+Total Reserved Memory: 3515 MB
+Total Used Memory: 4119 MB
+System Used Memory: 4119 MB
+CPU mainthread time: 26.3 ms
+
+Record Time: 21.83527 sec
+Total Reserved Memory: 3515 MB
+Total Used Memory: 4119 MB
+System Used Memory: 4119 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 21.86177 sec
+Total Reserved Memory: 3515 MB
+Total Used Memory: 4120 MB
+System Used Memory: 4120 MB
+CPU mainthread time: 26.2 ms
+
+Record Time: 21.88774 sec
+Total Reserved Memory: 3515 MB
+Total Used Memory: 4120 MB
+System Used Memory: 4120 MB
+CPU mainthread time: 26.2 ms
+
+Record Time: 21.91392 sec
+Total Reserved Memory: 3515 MB
+Total Used Memory: 4120 MB
+System Used Memory: 4120 MB
+CPU mainthread time: 26.1 ms
+
+Record Time: 21.94026 sec
+Total Reserved Memory: 3515 MB
+Total Used Memory: 4120 MB
+System Used Memory: 4120 MB
+CPU mainthread time: 26.1 ms
+
+Record Time: 21.96711 sec
+Total Reserved Memory: 3531 MB
+Total Used Memory: 4136 MB
+System Used Memory: 4136 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 21.99321 sec
+Total Reserved Memory: 3531 MB
+Total Used Memory: 4136 MB
+System Used Memory: 4136 MB
+CPU mainthread time: 26.2 ms
+
+Record Time: 22.01963 sec
+Total Reserved Memory: 3531 MB
+Total Used Memory: 4137 MB
+System Used Memory: 4137 MB
+CPU mainthread time: 26.4 ms
+
+Record Time: 22.04624 sec
+Total Reserved Memory: 3531 MB
+Total Used Memory: 4137 MB
+System Used Memory: 4137 MB
+CPU mainthread time: 25.8 ms
+
+Record Time: 22.07341 sec
+Total Reserved Memory: 3547 MB
+Total Used Memory: 4153 MB
+System Used Memory: 4153 MB
+CPU mainthread time: 27.6 ms
+
+Record Time: 22.10075 sec
+Total Reserved Memory: 3547 MB
+Total Used Memory: 4153 MB
+System Used Memory: 4153 MB
+CPU mainthread time: 28.0 ms
+
+Record Time: 22.12921 sec
+Total Reserved Memory: 3563 MB
+Total Used Memory: 4169 MB
+System Used Memory: 4169 MB
+CPU mainthread time: 27.8 ms
+
+Record Time: 22.1563 sec
+Total Reserved Memory: 3563 MB
+Total Used Memory: 4169 MB
+System Used Memory: 4169 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 22.18278 sec
+Total Reserved Memory: 3579 MB
+Total Used Memory: 4186 MB
+System Used Memory: 4186 MB
+CPU mainthread time: 26.9 ms
+
+Record Time: 22.20951 sec
+Total Reserved Memory: 3579 MB
+Total Used Memory: 4186 MB
+System Used Memory: 4186 MB
+CPU mainthread time: 26.7 ms
+
+Record Time: 22.23803 sec
+Total Reserved Memory: 3595 MB
+Total Used Memory: 4202 MB
+System Used Memory: 4202 MB
+CPU mainthread time: 27.5 ms
+
+Record Time: 22.26477 sec
+Total Reserved Memory: 3595 MB
+Total Used Memory: 4202 MB
+System Used Memory: 4202 MB
+CPU mainthread time: 27.4 ms
+
+Record Time: 22.291 sec
+Total Reserved Memory: 3611 MB
+Total Used Memory: 4218 MB
+System Used Memory: 4218 MB
+CPU mainthread time: 26.5 ms
+
+Record Time: 22.31812 sec
+Total Reserved Memory: 3611 MB
+Total Used Memory: 4219 MB
+System Used Memory: 4219 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 22.34585 sec
+Total Reserved Memory: 3627 MB
+Total Used Memory: 4235 MB
+System Used Memory: 4235 MB
+CPU mainthread time: 27.4 ms
+
+Record Time: 22.37316 sec
+Total Reserved Memory: 3627 MB
+Total Used Memory: 4235 MB
+System Used Memory: 4235 MB
+CPU mainthread time: 27.4 ms
+
+Record Time: 22.40002 sec
+Total Reserved Memory: 3643 MB
+Total Used Memory: 4251 MB
+System Used Memory: 4251 MB
+CPU mainthread time: 27.7 ms
+
+Record Time: 22.42758 sec
+Total Reserved Memory: 3643 MB
+Total Used Memory: 4251 MB
+System Used Memory: 4251 MB
+CPU mainthread time: 26.8 ms
+
+Record Time: 22.45553 sec
+Total Reserved Memory: 3659 MB
+Total Used Memory: 4267 MB
+System Used Memory: 4267 MB
+CPU mainthread time: 28.0 ms
+
+Record Time: 22.48236 sec
+Total Reserved Memory: 3659 MB
+Total Used Memory: 4267 MB
+System Used Memory: 4267 MB
+CPU mainthread time: 27.1 ms
+
+Record Time: 22.51003 sec
+Total Reserved Memory: 3675 MB
+Total Used Memory: 4284 MB
+System Used Memory: 4284 MB
+CPU mainthread time: 27.6 ms
+
+Record Time: 22.537 sec
+Total Reserved Memory: 3675 MB
+Total Used Memory: 4284 MB
+System Used Memory: 4284 MB
+CPU mainthread time: 26.6 ms
+
+Record Time: 22.56439 sec
+Total Reserved Memory: 3691 MB
+Total Used Memory: 4300 MB
+System Used Memory: 4300 MB
+CPU mainthread time: 27.7 ms
+
+Record Time: 22.59328 sec
+Total Reserved Memory: 3691 MB
+Total Used Memory: 4300 MB
+System Used Memory: 4300 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 22.62111 sec
+Total Reserved Memory: 3707 MB
+Total Used Memory: 4317 MB
+System Used Memory: 4317 MB
+CPU mainthread time: 27.6 ms
+
+Record Time: 22.64907 sec
+Total Reserved Memory: 3707 MB
+Total Used Memory: 4317 MB
+System Used Memory: 4317 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 22.67648 sec
+Total Reserved Memory: 3723 MB
+Total Used Memory: 4333 MB
+System Used Memory: 4333 MB
+CPU mainthread time: 27.2 ms
+
+Record Time: 22.70347 sec
+Total Reserved Memory: 3723 MB
+Total Used Memory: 4333 MB
+System Used Memory: 4333 MB
+CPU mainthread time: 27.3 ms
+
+Record Time: 22.72993 sec
+Total Reserved Memory: 3739 MB
+Total Used Memory: 4349 MB
+System Used Memory: 4349 MB
+CPU mainthread time: 26.4 ms
+
+Record Time: 22.75791 sec
+Total Reserved Memory: 3739 MB
+Total Used Memory: 4349 MB
+System Used Memory: 4349 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 22.78475 sec
+Total Reserved Memory: 3755 MB
+Total Used Memory: 4365 MB
+System Used Memory: 4365 MB
+CPU mainthread time: 27.6 ms
+
+Record Time: 22.81222 sec
+Total Reserved Memory: 3771 MB
+Total Used Memory: 4382 MB
+System Used Memory: 4382 MB
+CPU mainthread time: 27.6 ms
+
+Record Time: 22.83992 sec
+Total Reserved Memory: 3771 MB
+Total Used Memory: 4382 MB
+System Used Memory: 4382 MB
+CPU mainthread time: 27.5 ms
+
+Record Time: 22.86805 sec
+Total Reserved Memory: 3787 MB
+Total Used Memory: 4398 MB
+System Used Memory: 4398 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 22.89676 sec
+Total Reserved Memory: 3787 MB
+Total Used Memory: 4398 MB
+System Used Memory: 4398 MB
+CPU mainthread time: 28.7 ms
+
+Record Time: 22.92397 sec
+Total Reserved Memory: 3803 MB
+Total Used Memory: 4414 MB
+System Used Memory: 4414 MB
+CPU mainthread time: 27.0 ms
+
+Record Time: 22.95156 sec
+Total Reserved Memory: 3803 MB
+Total Used Memory: 4415 MB
+System Used Memory: 4415 MB
+CPU mainthread time: 27.8 ms
+
+Record Time: 22.97908 sec
+Total Reserved Memory: 3819 MB
+Total Used Memory: 4431 MB
+System Used Memory: 4431 MB
+CPU mainthread time: 27.2 ms
+
+Record Time: 23.00687 sec
+Total Reserved Memory: 3819 MB
+Total Used Memory: 4431 MB
+System Used Memory: 4431 MB
+CPU mainthread time: 28.1 ms
+
+Record Time: 23.03412 sec
+Total Reserved Memory: 3835 MB
+Total Used Memory: 4447 MB
+System Used Memory: 4447 MB
+CPU mainthread time: 27.3 ms
+
+Record Time: 23.06261 sec
+Total Reserved Memory: 3835 MB
+Total Used Memory: 4447 MB
+System Used Memory: 4447 MB
+CPU mainthread time: 28.1 ms
+
+Record Time: 23.09123 sec
+Total Reserved Memory: 3851 MB
+Total Used Memory: 4463 MB
+System Used Memory: 4463 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 23.12036 sec
+Total Reserved Memory: 3851 MB
+Total Used Memory: 4464 MB
+System Used Memory: 4464 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 23.14966 sec
+Total Reserved Memory: 3867 MB
+Total Used Memory: 4480 MB
+System Used Memory: 4480 MB
+CPU mainthread time: 29.3 ms
+
+Record Time: 23.17782 sec
+Total Reserved Memory: 3867 MB
+Total Used Memory: 4480 MB
+System Used Memory: 4480 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 23.20627 sec
+Total Reserved Memory: 3883 MB
+Total Used Memory: 4496 MB
+System Used Memory: 4496 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 23.23579 sec
+Total Reserved Memory: 3899 MB
+Total Used Memory: 4512 MB
+System Used Memory: 4512 MB
+CPU mainthread time: 29.5 ms
+
+Record Time: 23.26549 sec
+Total Reserved Memory: 3899 MB
+Total Used Memory: 4513 MB
+System Used Memory: 4513 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 23.29344 sec
+Total Reserved Memory: 3915 MB
+Total Used Memory: 4529 MB
+System Used Memory: 4529 MB
+CPU mainthread time: 29.3 ms
+
+Record Time: 23.32197 sec
+Total Reserved Memory: 3915 MB
+Total Used Memory: 4529 MB
+System Used Memory: 4529 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 23.35012 sec
+Total Reserved Memory: 3931 MB
+Total Used Memory: 4545 MB
+System Used Memory: 4545 MB
+CPU mainthread time: 28.6 ms
+
+Record Time: 23.37865 sec
+Total Reserved Memory: 3931 MB
+Total Used Memory: 4545 MB
+System Used Memory: 4545 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 23.40707 sec
+Total Reserved Memory: 3947 MB
+Total Used Memory: 4561 MB
+System Used Memory: 4561 MB
+CPU mainthread time: 28.7 ms
+
+Record Time: 23.43573 sec
+Total Reserved Memory: 3947 MB
+Total Used Memory: 4562 MB
+System Used Memory: 4562 MB
+CPU mainthread time: 28.6 ms
+
+Record Time: 23.46395 sec
+Total Reserved Memory: 3963 MB
+Total Used Memory: 4578 MB
+System Used Memory: 4578 MB
+CPU mainthread time: 28.1 ms
+
+Record Time: 23.49195 sec
+Total Reserved Memory: 3963 MB
+Total Used Memory: 4578 MB
+System Used Memory: 4578 MB
+CPU mainthread time: 28.3 ms
+
+Record Time: 23.52032 sec
+Total Reserved Memory: 3979 MB
+Total Used Memory: 4594 MB
+System Used Memory: 4594 MB
+CPU mainthread time: 28.0 ms
+
+Record Time: 23.54786 sec
+Total Reserved Memory: 3979 MB
+Total Used Memory: 4595 MB
+System Used Memory: 4595 MB
+CPU mainthread time: 27.7 ms
+
+Record Time: 23.57652 sec
+Total Reserved Memory: 3995 MB
+Total Used Memory: 4611 MB
+System Used Memory: 4611 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 23.60435 sec
+Total Reserved Memory: 4011 MB
+Total Used Memory: 4627 MB
+System Used Memory: 4627 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 23.63277 sec
+Total Reserved Memory: 4011 MB
+Total Used Memory: 4627 MB
+System Used Memory: 4627 MB
+CPU mainthread time: 28.1 ms
+
+Record Time: 23.66173 sec
+Total Reserved Memory: 4027 MB
+Total Used Memory: 4643 MB
+System Used Memory: 4643 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 23.68959 sec
+Total Reserved Memory: 4027 MB
+Total Used Memory: 4643 MB
+System Used Memory: 4643 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 23.71779 sec
+Total Reserved Memory: 4043 MB
+Total Used Memory: 4660 MB
+System Used Memory: 4660 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 23.74631 sec
+Total Reserved Memory: 4043 MB
+Total Used Memory: 4660 MB
+System Used Memory: 4660 MB
+CPU mainthread time: 28.3 ms
+
+Record Time: 23.77545 sec
+Total Reserved Memory: 4059 MB
+Total Used Memory: 4676 MB
+System Used Memory: 4676 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 23.80315 sec
+Total Reserved Memory: 4059 MB
+Total Used Memory: 4676 MB
+System Used Memory: 4676 MB
+CPU mainthread time: 29.4 ms
+
+Record Time: 23.8319 sec
+Total Reserved Memory: 4075 MB
+Total Used Memory: 4692 MB
+System Used Memory: 4692 MB
+CPU mainthread time: 27.9 ms
+
+Record Time: 23.86033 sec
+Total Reserved Memory: 4075 MB
+Total Used Memory: 4693 MB
+System Used Memory: 4693 MB
+CPU mainthread time: 28.5 ms
+
+Record Time: 23.88867 sec
+Total Reserved Memory: 4091 MB
+Total Used Memory: 4709 MB
+System Used Memory: 4709 MB
+CPU mainthread time: 28.7 ms
+
+Record Time: 23.91671 sec
+Total Reserved Memory: 4107 MB
+Total Used Memory: 4725 MB
+System Used Memory: 4725 MB
+CPU mainthread time: 28.0 ms
+
+Record Time: 23.94502 sec
+Total Reserved Memory: 4107 MB
+Total Used Memory: 4725 MB
+System Used Memory: 4725 MB
+CPU mainthread time: 27.9 ms
+
+Record Time: 23.97334 sec
+Total Reserved Memory: 4123 MB
+Total Used Memory: 4741 MB
+System Used Memory: 4741 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 24.00134 sec
+Total Reserved Memory: 4123 MB
+Total Used Memory: 4741 MB
+System Used Memory: 4741 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 24.03031 sec
+Total Reserved Memory: 4139 MB
+Total Used Memory: 4758 MB
+System Used Memory: 4758 MB
+CPU mainthread time: 28.0 ms
+
+Record Time: 24.05889 sec
+Total Reserved Memory: 4139 MB
+Total Used Memory: 4758 MB
+System Used Memory: 4758 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 24.08754 sec
+Total Reserved Memory: 4155 MB
+Total Used Memory: 4774 MB
+System Used Memory: 4774 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 24.11661 sec
+Total Reserved Memory: 4155 MB
+Total Used Memory: 4774 MB
+System Used Memory: 4774 MB
+CPU mainthread time: 29.1 ms
+
+Record Time: 24.14805 sec
+Total Reserved Memory: 4171 MB
+Total Used Memory: 4790 MB
+System Used Memory: 4790 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 24.17676 sec
+Total Reserved Memory: 4187 MB
+Total Used Memory: 4807 MB
+System Used Memory: 4807 MB
+CPU mainthread time: 28.7 ms
+
+Record Time: 24.20509 sec
+Total Reserved Memory: 4187 MB
+Total Used Memory: 4807 MB
+System Used Memory: 4807 MB
+CPU mainthread time: 28.7 ms
+
+Record Time: 24.23372 sec
+Total Reserved Memory: 4203 MB
+Total Used Memory: 4823 MB
+System Used Memory: 4823 MB
+CPU mainthread time: 28.5 ms
+
+Record Time: 24.26276 sec
+Total Reserved Memory: 4203 MB
+Total Used Memory: 4823 MB
+System Used Memory: 4823 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 24.29222 sec
+Total Reserved Memory: 4219 MB
+Total Used Memory: 4839 MB
+System Used Memory: 4839 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 24.32077 sec
+Total Reserved Memory: 4219 MB
+Total Used Memory: 4839 MB
+System Used Memory: 4839 MB
+CPU mainthread time: 29.4 ms
+
+Record Time: 24.34969 sec
+Total Reserved Memory: 4235 MB
+Total Used Memory: 4856 MB
+System Used Memory: 4856 MB
+CPU mainthread time: 28.7 ms
+
+Record Time: 24.37836 sec
+Total Reserved Memory: 4235 MB
+Total Used Memory: 4856 MB
+System Used Memory: 4856 MB
+CPU mainthread time: 28.8 ms
+
+Record Time: 24.40887 sec
+Total Reserved Memory: 4251 MB
+Total Used Memory: 4872 MB
+System Used Memory: 4872 MB
+CPU mainthread time: 30.7 ms
+
+Record Time: 24.72139 sec
+Total Reserved Memory: 4251 MB
+Total Used Memory: 4872 MB
+System Used Memory: 4872 MB
+CPU mainthread time: 312.2 ms
+
+Record Time: 24.7532 sec
+Total Reserved Memory: 4251 MB
+Total Used Memory: 4872 MB
+System Used Memory: 4872 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 24.78249 sec
+Total Reserved Memory: 4251 MB
+Total Used Memory: 4873 MB
+System Used Memory: 4873 MB
+CPU mainthread time: 31.9 ms
+
+Record Time: 24.81006 sec
+Total Reserved Memory: 4267 MB
+Total Used Memory: 4889 MB
+System Used Memory: 4889 MB
+CPU mainthread time: 29.1 ms
+
+Record Time: 24.83871 sec
+Total Reserved Memory: 4267 MB
+Total Used Memory: 4889 MB
+System Used Memory: 4889 MB
+CPU mainthread time: 27.9 ms
+
+Record Time: 24.86791 sec
+Total Reserved Memory: 4267 MB
+Total Used Memory: 4889 MB
+System Used Memory: 4889 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 24.89582 sec
+Total Reserved Memory: 4267 MB
+Total Used Memory: 4889 MB
+System Used Memory: 4889 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 24.92485 sec
+Total Reserved Memory: 4267 MB
+Total Used Memory: 4889 MB
+System Used Memory: 4889 MB
+CPU mainthread time: 28.3 ms
+
+Record Time: 24.95305 sec
+Total Reserved Memory: 4267 MB
+Total Used Memory: 4889 MB
+System Used Memory: 4889 MB
+CPU mainthread time: 28.2 ms
+
+Record Time: 24.98109 sec
+Total Reserved Memory: 4283 MB
+Total Used Memory: 4906 MB
+System Used Memory: 4906 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 25.0101 sec
+Total Reserved Memory: 4283 MB
+Total Used Memory: 4906 MB
+System Used Memory: 4906 MB
+CPU mainthread time: 29.0 ms
+
+Record Time: 25.03899 sec
+Total Reserved Memory: 4283 MB
+Total Used Memory: 4906 MB
+System Used Memory: 4906 MB
+CPU mainthread time: 28.6 ms
+
+Record Time: 25.0687 sec
+Total Reserved Memory: 4283 MB
+Total Used Memory: 4906 MB
+System Used Memory: 4906 MB
+CPU mainthread time: 29.7 ms
+
+Record Time: 25.09837 sec
+Total Reserved Memory: 4283 MB
+Total Used Memory: 4906 MB
+System Used Memory: 4906 MB
+CPU mainthread time: 30.0 ms
+
+Record Time: 25.12711 sec
+Total Reserved Memory: 4283 MB
+Total Used Memory: 4906 MB
+System Used Memory: 4906 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 25.15656 sec
+Total Reserved Memory: 4299 MB
+Total Used Memory: 4923 MB
+System Used Memory: 4923 MB
+CPU mainthread time: 29.4 ms
+
+Record Time: 25.1854 sec
+Total Reserved Memory: 4299 MB
+Total Used Memory: 4923 MB
+System Used Memory: 4923 MB
+CPU mainthread time: 29.1 ms
+
+Record Time: 25.21435 sec
+Total Reserved Memory: 4299 MB
+Total Used Memory: 4923 MB
+System Used Memory: 4923 MB
+CPU mainthread time: 29.0 ms
+
+Record Time: 25.24311 sec
+Total Reserved Memory: 4299 MB
+Total Used Memory: 4923 MB
+System Used Memory: 4923 MB
+CPU mainthread time: 28.4 ms
+
+Record Time: 25.27302 sec
+Total Reserved Memory: 4315 MB
+Total Used Memory: 4939 MB
+System Used Memory: 4939 MB
+CPU mainthread time: 29.8 ms
+
+Record Time: 25.30302 sec
+Total Reserved Memory: 4315 MB
+Total Used Memory: 4939 MB
+System Used Memory: 4939 MB
+CPU mainthread time: 29.9 ms
+
+Record Time: 25.3329 sec
+Total Reserved Memory: 4331 MB
+Total Used Memory: 4955 MB
+System Used Memory: 4955 MB
+CPU mainthread time: 29.9 ms
+
+Record Time: 25.3624 sec
+Total Reserved Memory: 4331 MB
+Total Used Memory: 4956 MB
+System Used Memory: 4956 MB
+CPU mainthread time: 29.5 ms
+
+Record Time: 25.39176 sec
+Total Reserved Memory: 4347 MB
+Total Used Memory: 4972 MB
+System Used Memory: 4972 MB
+CPU mainthread time: 29.9 ms
+
+Record Time: 25.42375 sec
+Total Reserved Memory: 4363 MB
+Total Used Memory: 4988 MB
+System Used Memory: 4988 MB
+CPU mainthread time: 31.4 ms
+
+Record Time: 25.45464 sec
+Total Reserved Memory: 4363 MB
+Total Used Memory: 4988 MB
+System Used Memory: 4988 MB
+CPU mainthread time: 31.1 ms
+
+Record Time: 25.48569 sec
+Total Reserved Memory: 4379 MB
+Total Used Memory: 5005 MB
+System Used Memory: 5005 MB
+CPU mainthread time: 31.4 ms
+
+Record Time: 25.51609 sec
+Total Reserved Memory: 4379 MB
+Total Used Memory: 5005 MB
+System Used Memory: 5005 MB
+CPU mainthread time: 30.2 ms
+
+Record Time: 25.54629 sec
+Total Reserved Memory: 4395 MB
+Total Used Memory: 5021 MB
+System Used Memory: 5021 MB
+CPU mainthread time: 30.4 ms
+
+Record Time: 25.57631 sec
+Total Reserved Memory: 4395 MB
+Total Used Memory: 5021 MB
+System Used Memory: 5021 MB
+CPU mainthread time: 29.7 ms
+
+Record Time: 25.60621 sec
+Total Reserved Memory: 4411 MB
+Total Used Memory: 5037 MB
+System Used Memory: 5037 MB
+CPU mainthread time: 30.2 ms
+
+Record Time: 25.63689 sec
+Total Reserved Memory: 4427 MB
+Total Used Memory: 5053 MB
+System Used Memory: 5053 MB
+CPU mainthread time: 30.4 ms
+
+Record Time: 25.66775 sec
+Total Reserved Memory: 4427 MB
+Total Used Memory: 5054 MB
+System Used Memory: 5054 MB
+CPU mainthread time: 30.8 ms
+
+Record Time: 25.69765 sec
+Total Reserved Memory: 4443 MB
+Total Used Memory: 5070 MB
+System Used Memory: 5070 MB
+CPU mainthread time: 30.8 ms
+
+Record Time: 25.72742 sec
+Total Reserved Memory: 4443 MB
+Total Used Memory: 5070 MB
+System Used Memory: 5070 MB
+CPU mainthread time: 28.9 ms
+
+Record Time: 25.75769 sec
+Total Reserved Memory: 4459 MB
+Total Used Memory: 5086 MB
+System Used Memory: 5086 MB
+CPU mainthread time: 30.3 ms
+
+Record Time: 25.78701 sec
+Total Reserved Memory: 4475 MB
+Total Used Memory: 5102 MB
+System Used Memory: 5102 MB
+CPU mainthread time: 29.7 ms
+
+Record Time: 25.81755 sec
+Total Reserved Memory: 4475 MB
+Total Used Memory: 5102 MB
+System Used Memory: 5102 MB
+CPU mainthread time: 29.5 ms
+
+Record Time: 25.84733 sec
+Total Reserved Memory: 4491 MB
+Total Used Memory: 5119 MB
+System Used Memory: 5119 MB
+CPU mainthread time: 30.4 ms
+
+Record Time: 25.87652 sec
+Total Reserved Memory: 4491 MB
+Total Used Memory: 5119 MB
+System Used Memory: 5119 MB
+CPU mainthread time: 29.1 ms
+
+Record Time: 25.90577 sec
+Total Reserved Memory: 4507 MB
+Total Used Memory: 5135 MB
+System Used Memory: 5135 MB
+CPU mainthread time: 29.7 ms
+
+Record Time: 25.93653 sec
+Total Reserved Memory: 4509 MB
+Total Used Memory: 5137 MB
+System Used Memory: 5137 MB
+CPU mainthread time: 30.4 ms
+
+Record Time: 25.9672 sec
+Total Reserved Memory: 4525 MB
+Total Used Memory: 5154 MB
+System Used Memory: 5154 MB
+CPU mainthread time: 30.8 ms
+
+Record Time: 25.9972 sec
+Total Reserved Memory: 4541 MB
+Total Used Memory: 5170 MB
+System Used Memory: 5170 MB
+CPU mainthread time: 30.7 ms
+
+Record Time: 26.02779 sec
+Total Reserved Memory: 4541 MB
+Total Used Memory: 5170 MB
+System Used Memory: 5170 MB
+CPU mainthread time: 29.8 ms
+
+Record Time: 26.0595 sec
+Total Reserved Memory: 4557 MB
+Total Used Memory: 5186 MB
+System Used Memory: 5186 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 26.09104 sec
+Total Reserved Memory: 4557 MB
+Total Used Memory: 5186 MB
+System Used Memory: 5186 MB
+CPU mainthread time: 32.3 ms
+
+Record Time: 26.12179 sec
+Total Reserved Memory: 4573 MB
+Total Used Memory: 5202 MB
+System Used Memory: 5202 MB
+CPU mainthread time: 30.2 ms
+
+Record Time: 26.15414 sec
+Total Reserved Memory: 4573 MB
+Total Used Memory: 5203 MB
+System Used Memory: 5203 MB
+CPU mainthread time: 32.6 ms
+
+Record Time: 26.1846 sec
+Total Reserved Memory: 4589 MB
+Total Used Memory: 5219 MB
+System Used Memory: 5219 MB
+CPU mainthread time: 30.7 ms
+
+Record Time: 26.2147 sec
+Total Reserved Memory: 4605 MB
+Total Used Memory: 5235 MB
+System Used Memory: 5235 MB
+CPU mainthread time: 30.1 ms
+
+Record Time: 26.24564 sec
+Total Reserved Memory: 4605 MB
+Total Used Memory: 5235 MB
+System Used Memory: 5235 MB
+CPU mainthread time: 30.6 ms
+
+Record Time: 26.2759 sec
+Total Reserved Memory: 4621 MB
+Total Used Memory: 5252 MB
+System Used Memory: 5252 MB
+CPU mainthread time: 30.2 ms
+
+Record Time: 26.30785 sec
+Total Reserved Memory: 4621 MB
+Total Used Memory: 5252 MB
+System Used Memory: 5252 MB
+CPU mainthread time: 32.4 ms
+
+Record Time: 26.33979 sec
+Total Reserved Memory: 4637 MB
+Total Used Memory: 5268 MB
+System Used Memory: 5268 MB
+CPU mainthread time: 30.6 ms
+
+Record Time: 26.37053 sec
+Total Reserved Memory: 4653 MB
+Total Used Memory: 5284 MB
+System Used Memory: 5284 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 26.40125 sec
+Total Reserved Memory: 4653 MB
+Total Used Memory: 5284 MB
+System Used Memory: 5284 MB
+CPU mainthread time: 30.9 ms
+
+Record Time: 26.43236 sec
+Total Reserved Memory: 4669 MB
+Total Used Memory: 5300 MB
+System Used Memory: 5300 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 26.46353 sec
+Total Reserved Memory: 4669 MB
+Total Used Memory: 5301 MB
+System Used Memory: 5301 MB
+CPU mainthread time: 31.0 ms
+
+Record Time: 26.49434 sec
+Total Reserved Memory: 4685 MB
+Total Used Memory: 5317 MB
+System Used Memory: 5317 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 26.52467 sec
+Total Reserved Memory: 4701 MB
+Total Used Memory: 5333 MB
+System Used Memory: 5333 MB
+CPU mainthread time: 30.0 ms
+
+Record Time: 26.55505 sec
+Total Reserved Memory: 4701 MB
+Total Used Memory: 5333 MB
+System Used Memory: 5333 MB
+CPU mainthread time: 30.3 ms
+
+Record Time: 26.58504 sec
+Total Reserved Memory: 4717 MB
+Total Used Memory: 5349 MB
+System Used Memory: 5349 MB
+CPU mainthread time: 30.2 ms
+
+Record Time: 26.61596 sec
+Total Reserved Memory: 4717 MB
+Total Used Memory: 5350 MB
+System Used Memory: 5350 MB
+CPU mainthread time: 30.9 ms
+
+Record Time: 26.64656 sec
+Total Reserved Memory: 4733 MB
+Total Used Memory: 5366 MB
+System Used Memory: 5366 MB
+CPU mainthread time: 30.4 ms
+
+Record Time: 26.67775 sec
+Total Reserved Memory: 4749 MB
+Total Used Memory: 5382 MB
+System Used Memory: 5382 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 26.70804 sec
+Total Reserved Memory: 4749 MB
+Total Used Memory: 5382 MB
+System Used Memory: 5382 MB
+CPU mainthread time: 30.6 ms
+
+Record Time: 26.73859 sec
+Total Reserved Memory: 4765 MB
+Total Used Memory: 5398 MB
+System Used Memory: 5398 MB
+CPU mainthread time: 30.3 ms
+
+Record Time: 26.76982 sec
+Total Reserved Memory: 4765 MB
+Total Used Memory: 5399 MB
+System Used Memory: 5399 MB
+CPU mainthread time: 31.1 ms
+
+Record Time: 26.79966 sec
+Total Reserved Memory: 4781 MB
+Total Used Memory: 5415 MB
+System Used Memory: 5415 MB
+CPU mainthread time: 30.7 ms
+
+Record Time: 26.83061 sec
+Total Reserved Memory: 4781 MB
+Total Used Memory: 5415 MB
+System Used Memory: 5415 MB
+CPU mainthread time: 30.0 ms
+
+Record Time: 26.86363 sec
+Total Reserved Memory: 4797 MB
+Total Used Memory: 5431 MB
+System Used Memory: 5431 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 26.89604 sec
+Total Reserved Memory: 4813 MB
+Total Used Memory: 5447 MB
+System Used Memory: 5447 MB
+CPU mainthread time: 33.7 ms
+
+Record Time: 26.92818 sec
+Total Reserved Memory: 4813 MB
+Total Used Memory: 5448 MB
+System Used Memory: 5448 MB
+CPU mainthread time: 32.2 ms
+
+Record Time: 26.95947 sec
+Total Reserved Memory: 4829 MB
+Total Used Memory: 5464 MB
+System Used Memory: 5464 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 26.99018 sec
+Total Reserved Memory: 4829 MB
+Total Used Memory: 5464 MB
+System Used Memory: 5464 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 27.02063 sec
+Total Reserved Memory: 4861 MB
+Total Used Memory: 5496 MB
+System Used Memory: 5496 MB
+CPU mainthread time: 30.2 ms
+
+Record Time: 27.0517 sec
+Total Reserved Memory: 4877 MB
+Total Used Memory: 5513 MB
+System Used Memory: 5513 MB
+CPU mainthread time: 30.9 ms
+
+Record Time: 27.08268 sec
+Total Reserved Memory: 4877 MB
+Total Used Memory: 5513 MB
+System Used Memory: 5513 MB
+CPU mainthread time: 31.0 ms
+
+Record Time: 27.11422 sec
+Total Reserved Memory: 4893 MB
+Total Used Memory: 5529 MB
+System Used Memory: 5529 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 27.14643 sec
+Total Reserved Memory: 4893 MB
+Total Used Memory: 5529 MB
+System Used Memory: 5529 MB
+CPU mainthread time: 31.9 ms
+
+Record Time: 27.17795 sec
+Total Reserved Memory: 4909 MB
+Total Used Memory: 5545 MB
+System Used Memory: 5545 MB
+CPU mainthread time: 31.5 ms
+
+Record Time: 27.21172 sec
+Total Reserved Memory: 4925 MB
+Total Used Memory: 5561 MB
+System Used Memory: 5561 MB
+CPU mainthread time: 34.1 ms
+
+Record Time: 27.2435 sec
+Total Reserved Memory: 4925 MB
+Total Used Memory: 5562 MB
+System Used Memory: 5562 MB
+CPU mainthread time: 31.5 ms
+
+Record Time: 27.27466 sec
+Total Reserved Memory: 4941 MB
+Total Used Memory: 5578 MB
+System Used Memory: 5578 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 27.30494 sec
+Total Reserved Memory: 4941 MB
+Total Used Memory: 5578 MB
+System Used Memory: 5578 MB
+CPU mainthread time: 31.0 ms
+
+Record Time: 27.33653 sec
+Total Reserved Memory: 4957 MB
+Total Used Memory: 5594 MB
+System Used Memory: 5594 MB
+CPU mainthread time: 30.8 ms
+
+Record Time: 27.36987 sec
+Total Reserved Memory: 4973 MB
+Total Used Memory: 5610 MB
+System Used Memory: 5610 MB
+CPU mainthread time: 32.4 ms
+
+Record Time: 27.40111 sec
+Total Reserved Memory: 4973 MB
+Total Used Memory: 5610 MB
+System Used Memory: 5610 MB
+CPU mainthread time: 32.5 ms
+
+Record Time: 27.43206 sec
+Total Reserved Memory: 4989 MB
+Total Used Memory: 5627 MB
+System Used Memory: 5627 MB
+CPU mainthread time: 30.7 ms
+
+Record Time: 27.4636 sec
+Total Reserved Memory: 5005 MB
+Total Used Memory: 5643 MB
+System Used Memory: 5643 MB
+CPU mainthread time: 31.5 ms
+
+Record Time: 27.49436 sec
+Total Reserved Memory: 5005 MB
+Total Used Memory: 5643 MB
+System Used Memory: 5643 MB
+CPU mainthread time: 31.1 ms
+
+Record Time: 27.52589 sec
+Total Reserved Memory: 5021 MB
+Total Used Memory: 5659 MB
+System Used Memory: 5659 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 27.55682 sec
+Total Reserved Memory: 5021 MB
+Total Used Memory: 5660 MB
+System Used Memory: 5660 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 27.58901 sec
+Total Reserved Memory: 5037 MB
+Total Used Memory: 5676 MB
+System Used Memory: 5676 MB
+CPU mainthread time: 31.9 ms
+
+Record Time: 27.62042 sec
+Total Reserved Memory: 5053 MB
+Total Used Memory: 5692 MB
+System Used Memory: 5692 MB
+CPU mainthread time: 31.7 ms
+
+Record Time: 27.65211 sec
+Total Reserved Memory: 5053 MB
+Total Used Memory: 5692 MB
+System Used Memory: 5692 MB
+CPU mainthread time: 31.4 ms
+
+Record Time: 27.68398 sec
+Total Reserved Memory: 5069 MB
+Total Used Memory: 5708 MB
+System Used Memory: 5708 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 27.71567 sec
+Total Reserved Memory: 5069 MB
+Total Used Memory: 5709 MB
+System Used Memory: 5709 MB
+CPU mainthread time: 31.9 ms
+
+Record Time: 27.74727 sec
+Total Reserved Memory: 5085 MB
+Total Used Memory: 5725 MB
+System Used Memory: 5725 MB
+CPU mainthread time: 31.3 ms
+
+Record Time: 27.77883 sec
+Total Reserved Memory: 5101 MB
+Total Used Memory: 5741 MB
+System Used Memory: 5741 MB
+CPU mainthread time: 31.6 ms
+
+Record Time: 27.81558 sec
+Total Reserved Memory: 5101 MB
+Total Used Memory: 5741 MB
+System Used Memory: 5741 MB
+CPU mainthread time: 37.1 ms
+
+Record Time: 27.85444 sec
+Total Reserved Memory: 5119 MB
+Total Used Memory: 5760 MB
+System Used Memory: 5760 MB
+CPU mainthread time: 38.5 ms
+
+Record Time: 27.88878 sec
+Total Reserved Memory: 5119 MB
+Total Used Memory: 5760 MB
+System Used Memory: 5760 MB
+CPU mainthread time: 33.1 ms
+
+Record Time: 27.92063 sec
+Total Reserved Memory: 5135 MB
+Total Used Memory: 5776 MB
+System Used Memory: 5776 MB
+CPU mainthread time: 33.3 ms
+
+Record Time: 27.95292 sec
+Total Reserved Memory: 5151 MB
+Total Used Memory: 5792 MB
+System Used Memory: 5792 MB
+CPU mainthread time: 32.2 ms
+
+Record Time: 27.9847 sec
+Total Reserved Memory: 5151 MB
+Total Used Memory: 5792 MB
+System Used Memory: 5792 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 28.01633 sec
+Total Reserved Memory: 5167 MB
+Total Used Memory: 5808 MB
+System Used Memory: 5808 MB
+CPU mainthread time: 31.9 ms
+
+Record Time: 28.04795 sec
+Total Reserved Memory: 5183 MB
+Total Used Memory: 5825 MB
+System Used Memory: 5825 MB
+CPU mainthread time: 31.4 ms
+
+Record Time: 28.08047 sec
+Total Reserved Memory: 5183 MB
+Total Used Memory: 5825 MB
+System Used Memory: 5825 MB
+CPU mainthread time: 32.5 ms
+
+Record Time: 28.11299 sec
+Total Reserved Memory: 5199 MB
+Total Used Memory: 5841 MB
+System Used Memory: 5841 MB
+CPU mainthread time: 32.8 ms
+
+Record Time: 28.14507 sec
+Total Reserved Memory: 5199 MB
+Total Used Memory: 5841 MB
+System Used Memory: 5841 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 28.17748 sec
+Total Reserved Memory: 5215 MB
+Total Used Memory: 5857 MB
+System Used Memory: 5857 MB
+CPU mainthread time: 32.5 ms
+
+Record Time: 28.59333 sec
+Total Reserved Memory: 5215 MB
+Total Used Memory: 5858 MB
+System Used Memory: 5858 MB
+CPU mainthread time: 416.0 ms
+
+Record Time: 28.62417 sec
+Total Reserved Memory: 5215 MB
+Total Used Memory: 5858 MB
+System Used Memory: 5858 MB
+CPU mainthread time: 30.9 ms
+
+Record Time: 28.65958 sec
+Total Reserved Memory: 5215 MB
+Total Used Memory: 5858 MB
+System Used Memory: 5858 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 28.69166 sec
+Total Reserved Memory: 5231 MB
+Total Used Memory: 5874 MB
+System Used Memory: 5874 MB
+CPU mainthread time: 35.2 ms
+
+Record Time: 28.72335 sec
+Total Reserved Memory: 5231 MB
+Total Used Memory: 5874 MB
+System Used Memory: 5874 MB
+CPU mainthread time: 32.5 ms
+
+Record Time: 28.75498 sec
+Total Reserved Memory: 5231 MB
+Total Used Memory: 5874 MB
+System Used Memory: 5874 MB
+CPU mainthread time: 31.5 ms
+
+Record Time: 28.78631 sec
+Total Reserved Memory: 5231 MB
+Total Used Memory: 5874 MB
+System Used Memory: 5874 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 28.8175 sec
+Total Reserved Memory: 5231 MB
+Total Used Memory: 5875 MB
+System Used Memory: 5875 MB
+CPU mainthread time: 31.0 ms
+
+Record Time: 28.84991 sec
+Total Reserved Memory: 5231 MB
+Total Used Memory: 5875 MB
+System Used Memory: 5875 MB
+CPU mainthread time: 31.9 ms
+
+Record Time: 28.88278 sec
+Total Reserved Memory: 5247 MB
+Total Used Memory: 5891 MB
+System Used Memory: 5891 MB
+CPU mainthread time: 33.3 ms
+
+Record Time: 28.91591 sec
+Total Reserved Memory: 5247 MB
+Total Used Memory: 5891 MB
+System Used Memory: 5891 MB
+CPU mainthread time: 33.2 ms
+
+Record Time: 28.9479 sec
+Total Reserved Memory: 5247 MB
+Total Used Memory: 5892 MB
+System Used Memory: 5892 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 28.97805 sec
+Total Reserved Memory: 5247 MB
+Total Used Memory: 5892 MB
+System Used Memory: 5892 MB
+CPU mainthread time: 30.5 ms
+
+Record Time: 29.0099 sec
+Total Reserved Memory: 5247 MB
+Total Used Memory: 5892 MB
+System Used Memory: 5892 MB
+CPU mainthread time: 31.5 ms
+
+Record Time: 29.04132 sec
+Total Reserved Memory: 5247 MB
+Total Used Memory: 5892 MB
+System Used Memory: 5892 MB
+CPU mainthread time: 31.7 ms
+
+Record Time: 29.07238 sec
+Total Reserved Memory: 5263 MB
+Total Used Memory: 5908 MB
+System Used Memory: 5908 MB
+CPU mainthread time: 30.7 ms
+
+Record Time: 29.10318 sec
+Total Reserved Memory: 5263 MB
+Total Used Memory: 5908 MB
+System Used Memory: 5908 MB
+CPU mainthread time: 31.2 ms
+
+Record Time: 29.13576 sec
+Total Reserved Memory: 5263 MB
+Total Used Memory: 5908 MB
+System Used Memory: 5908 MB
+CPU mainthread time: 32.2 ms
+
+Record Time: 29.16808 sec
+Total Reserved Memory: 5263 MB
+Total Used Memory: 5909 MB
+System Used Memory: 5909 MB
+CPU mainthread time: 32.3 ms
+
+Record Time: 29.20042 sec
+Total Reserved Memory: 5263 MB
+Total Used Memory: 5909 MB
+System Used Memory: 5909 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 29.23357 sec
+Total Reserved Memory: 5279 MB
+Total Used Memory: 5925 MB
+System Used Memory: 5925 MB
+CPU mainthread time: 33.7 ms
+
+Record Time: 29.26627 sec
+Total Reserved Memory: 5295 MB
+Total Used Memory: 5941 MB
+System Used Memory: 5941 MB
+CPU mainthread time: 32.7 ms
+
+Record Time: 29.29898 sec
+Total Reserved Memory: 5295 MB
+Total Used Memory: 5941 MB
+System Used Memory: 5941 MB
+CPU mainthread time: 33.2 ms
+
+Record Time: 29.33123 sec
+Total Reserved Memory: 5311 MB
+Total Used Memory: 5958 MB
+System Used Memory: 5958 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 29.36355 sec
+Total Reserved Memory: 5311 MB
+Total Used Memory: 5958 MB
+System Used Memory: 5958 MB
+CPU mainthread time: 32.3 ms
+
+Record Time: 29.3959 sec
+Total Reserved Memory: 5327 MB
+Total Used Memory: 5974 MB
+System Used Memory: 5974 MB
+CPU mainthread time: 32.7 ms
+
+Record Time: 29.42841 sec
+Total Reserved Memory: 5343 MB
+Total Used Memory: 5990 MB
+System Used Memory: 5990 MB
+CPU mainthread time: 32.2 ms
+
+Record Time: 29.46039 sec
+Total Reserved Memory: 5343 MB
+Total Used Memory: 5990 MB
+System Used Memory: 5990 MB
+CPU mainthread time: 32.0 ms
+
+Record Time: 29.49336 sec
+Total Reserved Memory: 5359 MB
+Total Used Memory: 6007 MB
+System Used Memory: 6007 MB
+CPU mainthread time: 33.3 ms
+
+Record Time: 29.52545 sec
+Total Reserved Memory: 5375 MB
+Total Used Memory: 6023 MB
+System Used Memory: 6023 MB
+CPU mainthread time: 31.8 ms
+
+Record Time: 29.55713 sec
+Total Reserved Memory: 5375 MB
+Total Used Memory: 6023 MB
+System Used Memory: 6023 MB
+CPU mainthread time: 32.0 ms
+
+Record Time: 29.58967 sec
+Total Reserved Memory: 5391 MB
+Total Used Memory: 6039 MB
+System Used Memory: 6039 MB
+CPU mainthread time: 32.4 ms
+
+Record Time: 29.62405 sec
+Total Reserved Memory: 5407 MB
+Total Used Memory: 6056 MB
+System Used Memory: 6056 MB
+CPU mainthread time: 34.1 ms
+
+Record Time: 29.65736 sec
+Total Reserved Memory: 5407 MB
+Total Used Memory: 6056 MB
+System Used Memory: 6056 MB
+CPU mainthread time: 33.4 ms
+
+Record Time: 29.68952 sec
+Total Reserved Memory: 5423 MB
+Total Used Memory: 6072 MB
+System Used Memory: 6072 MB
+CPU mainthread time: 32.6 ms
+
+Record Time: 29.72334 sec
+Total Reserved Memory: 5423 MB
+Total Used Memory: 6072 MB
+System Used Memory: 6072 MB
+CPU mainthread time: 32.4 ms
+
+Record Time: 29.75683 sec
+Total Reserved Memory: 5439 MB
+Total Used Memory: 6088 MB
+System Used Memory: 6088 MB
+CPU mainthread time: 34.2 ms
+
+Record Time: 29.78958 sec
+Total Reserved Memory: 5455 MB
+Total Used Memory: 6104 MB
+System Used Memory: 6104 MB
+CPU mainthread time: 33.4 ms
+
+Record Time: 29.82269 sec
+Total Reserved Memory: 5455 MB
+Total Used Memory: 6105 MB
+System Used Memory: 6105 MB
+CPU mainthread time: 32.8 ms
+
+Record Time: 29.85586 sec
+Total Reserved Memory: 5471 MB
+Total Used Memory: 6121 MB
+System Used Memory: 6121 MB
+CPU mainthread time: 33.2 ms
+
+Record Time: 29.88922 sec
+Total Reserved Memory: 5487 MB
+Total Used Memory: 6137 MB
+System Used Memory: 6137 MB
+CPU mainthread time: 33.6 ms
+
+Record Time: 29.92323 sec
+Total Reserved Memory: 5487 MB
+Total Used Memory: 6137 MB
+System Used Memory: 6137 MB
+CPU mainthread time: 33.6 ms
+
+Record Time: 29.95609 sec
+Total Reserved Memory: 5503 MB
+Total Used Memory: 6153 MB
+System Used Memory: 6153 MB
+CPU mainthread time: 32.7 ms
+
+Record Time: 29.98897 sec
+Total Reserved Memory: 5519 MB
+Total Used Memory: 6170 MB
+System Used Memory: 6170 MB
+CPU mainthread time: 33.4 ms
+
+Record Time: 30.02151 sec
+Total Reserved Memory: 5519 MB
+Total Used Memory: 6170 MB
+System Used Memory: 6170 MB
+CPU mainthread time: 32.3 ms
+
+Record Time: 30.0551 sec
+Total Reserved Memory: 5535 MB
+Total Used Memory: 6186 MB
+System Used Memory: 6186 MB
+CPU mainthread time: 33.5 ms
+
+Record Time: 30.08862 sec
+Total Reserved Memory: 5551 MB
+Total Used Memory: 6202 MB
+System Used Memory: 6202 MB
+CPU mainthread time: 33.9 ms
+
+Record Time: 30.12374 sec
+Total Reserved Memory: 5551 MB
+Total Used Memory: 6203 MB
+System Used Memory: 6203 MB
+CPU mainthread time: 34.7 ms
+
+Record Time: 30.15745 sec
+Total Reserved Memory: 5567 MB
+Total Used Memory: 6219 MB
+System Used Memory: 6219 MB
+CPU mainthread time: 33.7 ms
+
+Record Time: 30.1905 sec
+Total Reserved Memory: 5567 MB
+Total Used Memory: 6219 MB
+System Used Memory: 6219 MB
+CPU mainthread time: 33.3 ms
+
+Record Time: 30.22473 sec
+Total Reserved Memory: 5583 MB
+Total Used Memory: 6235 MB
+System Used Memory: 6235 MB
+CPU mainthread time: 33.0 ms
+
+Record Time: 30.25854 sec
+Total Reserved Memory: 5599 MB
+Total Used Memory: 6251 MB
+System Used Memory: 6251 MB
+CPU mainthread time: 34.8 ms
+
+Record Time: 30.29102 sec
+Total Reserved Memory: 5599 MB
+Total Used Memory: 6252 MB
+System Used Memory: 6252 MB
+CPU mainthread time: 32.8 ms
+
+Record Time: 30.32458 sec
+Total Reserved Memory: 5615 MB
+Total Used Memory: 6268 MB
+System Used Memory: 6268 MB
+CPU mainthread time: 33.2 ms
+
+Record Time: 30.35781 sec
+Total Reserved Memory: 5631 MB
+Total Used Memory: 6284 MB
+System Used Memory: 6284 MB
+CPU mainthread time: 33.2 ms
+
+Record Time: 30.39071 sec
+Total Reserved Memory: 5631 MB
+Total Used Memory: 6284 MB
+System Used Memory: 6284 MB
+CPU mainthread time: 33.2 ms
+
+Record Time: 30.42468 sec
+Total Reserved Memory: 5647 MB
+Total Used Memory: 6301 MB
+System Used Memory: 6301 MB
+CPU mainthread time: 33.6 ms
+
+Record Time: 30.45771 sec
+Total Reserved Memory: 5663 MB
+Total Used Memory: 6317 MB
+System Used Memory: 6317 MB
+CPU mainthread time: 33.1 ms
+
+Record Time: 30.4906 sec
+Total Reserved Memory: 5663 MB
+Total Used Memory: 6317 MB
+System Used Memory: 6317 MB
+CPU mainthread time: 33.3 ms
+
+Record Time: 30.52395 sec
+Total Reserved Memory: 5679 MB
+Total Used Memory: 6333 MB
+System Used Memory: 6333 MB
+CPU mainthread time: 32.9 ms
+
+Record Time: 30.55818 sec
+Total Reserved Memory: 5695 MB
+Total Used Memory: 6349 MB
+System Used Memory: 6349 MB
+CPU mainthread time: 34.3 ms
+
+Record Time: 30.59167 sec
+Total Reserved Memory: 5695 MB
+Total Used Memory: 6350 MB
+System Used Memory: 6350 MB
+CPU mainthread time: 33.7 ms
+
+Record Time: 30.62654 sec
+Total Reserved Memory: 5711 MB
+Total Used Memory: 6366 MB
+System Used Memory: 6366 MB
+CPU mainthread time: 34.6 ms
+
+Record Time: 30.66101 sec
+Total Reserved Memory: 5727 MB
+Total Used Memory: 6382 MB
+System Used Memory: 6382 MB
+CPU mainthread time: 34.1 ms
+
+Record Time: 30.69471 sec
+Total Reserved Memory: 5727 MB
+Total Used Memory: 6382 MB
+System Used Memory: 6382 MB
+CPU mainthread time: 34.4 ms
+
+Record Time: 30.72989 sec
+Total Reserved Memory: 5743 MB
+Total Used Memory: 6398 MB
+System Used Memory: 6398 MB
+CPU mainthread time: 33.8 ms
+
+Record Time: 30.76393 sec
+Total Reserved Memory: 5743 MB
+Total Used Memory: 6399 MB
+System Used Memory: 6399 MB
+CPU mainthread time: 34.9 ms
+
+Record Time: 30.7971 sec
+Total Reserved Memory: 5759 MB
+Total Used Memory: 6415 MB
+System Used Memory: 6415 MB
+CPU mainthread time: 33.8 ms
+
+Record Time: 30.83109 sec
+Total Reserved Memory: 5775 MB
+Total Used Memory: 6431 MB
+System Used Memory: 6431 MB
+CPU mainthread time: 33.7 ms
+
+Record Time: 30.86525 sec
+Total Reserved Memory: 5775 MB
+Total Used Memory: 6431 MB
+System Used Memory: 6431 MB
+CPU mainthread time: 34.2 ms
+
+Record Time: 30.89909 sec
+Total Reserved Memory: 5791 MB
+Total Used Memory: 6448 MB
+System Used Memory: 6448 MB
+CPU mainthread time: 34.0 ms
+
+Record Time: 30.93332 sec
+Total Reserved Memory: 5807 MB
+Total Used Memory: 6464 MB
+System Used Memory: 6464 MB
+CPU mainthread time: 33.9 ms
+
+Record Time: 30.96685 sec
+Total Reserved Memory: 5807 MB
+Total Used Memory: 6464 MB
+System Used Memory: 6464 MB
+CPU mainthread time: 33.5 ms
+
+Record Time: 31.00044 sec
+Total Reserved Memory: 5823 MB
+Total Used Memory: 6480 MB
+System Used Memory: 6480 MB
+CPU mainthread time: 34.1 ms
+
+Record Time: 31.03489 sec
+Total Reserved Memory: 5839 MB
+Total Used Memory: 6496 MB
+System Used Memory: 6496 MB
+CPU mainthread time: 34.0 ms
+
+Record Time: 31.06983 sec
+Total Reserved Memory: 5839 MB
+Total Used Memory: 6497 MB
+System Used Memory: 6497 MB
+CPU mainthread time: 35.0 ms
+
+Record Time: 31.10603 sec
+Total Reserved Memory: 5855 MB
+Total Used Memory: 6513 MB
+System Used Memory: 6513 MB
+CPU mainthread time: 35.8 ms
+
+Record Time: 31.14005 sec
+Total Reserved Memory: 5871 MB
+Total Used Memory: 6529 MB
+System Used Memory: 6529 MB
+CPU mainthread time: 34.5 ms
+
+Record Time: 31.17373 sec
+Total Reserved Memory: 5871 MB
+Total Used Memory: 6529 MB
+System Used Memory: 6529 MB
+CPU mainthread time: 34.0 ms
+
+Record Time: 31.20766 sec
+Total Reserved Memory: 5887 MB
+Total Used Memory: 6546 MB
+System Used Memory: 6546 MB
+CPU mainthread time: 33.7 ms
+
+Record Time: 31.24257 sec
+Total Reserved Memory: 5903 MB
+Total Used Memory: 6562 MB
+System Used Memory: 6562 MB
+CPU mainthread time: 33.8 ms
+
+Record Time: 31.27699 sec
+Total Reserved Memory: 5903 MB
+Total Used Memory: 6562 MB
+System Used Memory: 6562 MB
+CPU mainthread time: 35.8 ms
+
+Record Time: 31.31056 sec
+Total Reserved Memory: 5919 MB
+Total Used Memory: 6578 MB
+System Used Memory: 6578 MB
+CPU mainthread time: 33.2 ms
+
+Record Time: 31.34399 sec
+Total Reserved Memory: 5935 MB
+Total Used Memory: 6594 MB
+System Used Memory: 6594 MB
+CPU mainthread time: 33.5 ms
+
+Record Time: 31.37766 sec
+Total Reserved Memory: 5935 MB
+Total Used Memory: 6595 MB
+System Used Memory: 6595 MB
+CPU mainthread time: 34.0 ms
+
+Record Time: 31.41209 sec
+Total Reserved Memory: 5951 MB
+Total Used Memory: 6611 MB
+System Used Memory: 6611 MB
+CPU mainthread time: 34.0 ms
+
+Record Time: 31.44671 sec
+Total Reserved Memory: 5967 MB
+Total Used Memory: 6627 MB
+System Used Memory: 6627 MB
+CPU mainthread time: 34.8 ms
+
+Record Time: 31.48098 sec
+Total Reserved Memory: 5967 MB
+Total Used Memory: 6627 MB
+System Used Memory: 6627 MB
+CPU mainthread time: 34.5 ms
+
+Record Time: 31.51627 sec
+Total Reserved Memory: 5983 MB
+Total Used Memory: 6643 MB
+System Used Memory: 6643 MB
+CPU mainthread time: 35.0 ms
+
+Record Time: 31.55122 sec
+Total Reserved Memory: 5999 MB
+Total Used Memory: 6660 MB
+System Used Memory: 6660 MB
+CPU mainthread time: 34.9 ms
+
+Record Time: 31.58599 sec
+Total Reserved Memory: 5999 MB
+Total Used Memory: 6660 MB
+System Used Memory: 6660 MB
+CPU mainthread time: 35.2 ms
+
+Record Time: 31.62064 sec
+Total Reserved Memory: 6015 MB
+Total Used Memory: 6676 MB
+System Used Memory: 6676 MB
+CPU mainthread time: 34.1 ms
+
+Record Time: 31.65503 sec
+Total Reserved Memory: 6031 MB
+Total Used Memory: 6692 MB
+System Used Memory: 6692 MB
+CPU mainthread time: 34.6 ms
+
+Record Time: 31.68952 sec
+Total Reserved Memory: 6031 MB
+Total Used Memory: 6693 MB
+System Used Memory: 6693 MB
+CPU mainthread time: 34.6 ms
+
+Record Time: 31.72437 sec
+Total Reserved Memory: 6047 MB
+Total Used Memory: 6709 MB
+System Used Memory: 6709 MB
+CPU mainthread time: 34.8 ms
+
+Record Time: 31.75957 sec
+Total Reserved Memory: 6063 MB
+Total Used Memory: 6725 MB
+System Used Memory: 6725 MB
+CPU mainthread time: 34.3 ms
+
+Record Time: 31.79343 sec
+Total Reserved Memory: 6063 MB
+Total Used Memory: 6725 MB
+System Used Memory: 6725 MB
+CPU mainthread time: 35.1 ms
+
+Record Time: 31.82735 sec
+Total Reserved Memory: 6079 MB
+Total Used Memory: 6741 MB
+System Used Memory: 6741 MB
+CPU mainthread time: 33.7 ms
+
+Record Time: 31.8613 sec
+Total Reserved Memory: 6095 MB
+Total Used Memory: 6758 MB
+System Used Memory: 6758 MB
+CPU mainthread time: 34.0 ms
+
+Record Time: 31.89557 sec
+Total Reserved Memory: 6095 MB
+Total Used Memory: 6758 MB
+System Used Memory: 6758 MB
+CPU mainthread time: 34.5 ms
+
+Record Time: 31.93018 sec
+Total Reserved Memory: 6111 MB
+Total Used Memory: 6774 MB
+System Used Memory: 6774 MB
+CPU mainthread time: 34.3 ms
+
+Record Time: 31.96461 sec
+Total Reserved Memory: 6127 MB
+Total Used Memory: 6790 MB
+System Used Memory: 6790 MB
+CPU mainthread time: 34.4 ms
+
+Record Time: 31.99893 sec
+Total Reserved Memory: 6127 MB
+Total Used Memory: 6790 MB
+System Used Memory: 6790 MB
+CPU mainthread time: 34.6 ms
+
+Record Time: 32.03386 sec
+Total Reserved Memory: 6143 MB
+Total Used Memory: 6807 MB
+System Used Memory: 6807 MB
+CPU mainthread time: 34.6 ms
+
+Record Time: 32.06891 sec
+Total Reserved Memory: 6159 MB
+Total Used Memory: 6823 MB
+System Used Memory: 6823 MB
+CPU mainthread time: 34.9 ms
+
+Record Time: 32.10342 sec
+Total Reserved Memory: 6159 MB
+Total Used Memory: 6823 MB
+System Used Memory: 6823 MB
+CPU mainthread time: 35.1 ms
+
+Record Time: 32.13862 sec
+Total Reserved Memory: 6175 MB
+Total Used Memory: 6840 MB
+System Used Memory: 6840 MB
+CPU mainthread time: 34.7 ms
+
+Record Time: 32.17391 sec
+Total Reserved Memory: 6191 MB
+Total Used Memory: 6856 MB
+System Used Memory: 6856 MB
+CPU mainthread time: 35.7 ms
+
+Record Time: 32.2091 sec
+Total Reserved Memory: 6191 MB
+Total Used Memory: 6856 MB
+System Used Memory: 6856 MB
+CPU mainthread time: 35.0 ms
+
+Record Time: 32.24371 sec
+Total Reserved Memory: 6207 MB
+Total Used Memory: 6872 MB
+System Used Memory: 6872 MB
+CPU mainthread time: 34.6 ms
+
+Record Time: 32.27935 sec
+Total Reserved Memory: 6223 MB
+Total Used Memory: 6888 MB
+System Used Memory: 6888 MB
+CPU mainthread time: 35.0 ms
+
+Record Time: 32.31448 sec
+Total Reserved Memory: 6223 MB
+Total Used Memory: 6889 MB
+System Used Memory: 6889 MB
+CPU mainthread time: 35.8 ms
+
+Record Time: 32.34875 sec
+Total Reserved Memory: 6239 MB
+Total Used Memory: 6905 MB
+System Used Memory: 6905 MB
+CPU mainthread time: 34.3 ms
+
+Record Time: 32.38288 sec
+Total Reserved Memory: 6255 MB
+Total Used Memory: 6921 MB
+System Used Memory: 6921 MB
+CPU mainthread time: 34.4 ms
+
+Record Time: 32.41785 sec
+Total Reserved Memory: 6271 MB
+Total Used Memory: 6937 MB
+System Used Memory: 6937 MB
+CPU mainthread time: 34.4 ms
+
+Record Time: 32.45312 sec
+Total Reserved Memory: 6271 MB
+Total Used Memory: 6938 MB
+System Used Memory: 6938 MB
+CPU mainthread time: 35.4 ms
+
+Record Time: 32.4882 sec
+Total Reserved Memory: 6287 MB
+Total Used Memory: 6954 MB
+System Used Memory: 6954 MB
+CPU mainthread time: 35.0 ms
+
+Record Time: 32.52308 sec
+Total Reserved Memory: 6303 MB
+Total Used Memory: 6970 MB
+System Used Memory: 6970 MB
+CPU mainthread time: 34.8 ms
+
+Record Time: 32.55789 sec
+Total Reserved Memory: 6303 MB
+Total Used Memory: 6970 MB
+System Used Memory: 6970 MB
+CPU mainthread time: 35.0 ms
+
+Record Time: 32.59211 sec
+Total Reserved Memory: 6319 MB
+Total Used Memory: 6986 MB
+System Used Memory: 6986 MB
+CPU mainthread time: 34.5 ms
+
+Record Time: 32.62801 sec
+Total Reserved Memory: 6335 MB
+Total Used Memory: 7003 MB
+System Used Memory: 7003 MB
+CPU mainthread time: 35.5 ms
+
+Record Time: 32.6638 sec
+Total Reserved Memory: 6335 MB
+Total Used Memory: 7003 MB
+System Used Memory: 7003 MB
+CPU mainthread time: 35.8 ms
+
+Record Time: 32.6992 sec
+Total Reserved Memory: 6351 MB
+Total Used Memory: 7019 MB
+System Used Memory: 7019 MB
+CPU mainthread time: 35.8 ms
+
+Record Time: 32.73489 sec
+Total Reserved Memory: 6367 MB
+Total Used Memory: 7035 MB
+System Used Memory: 7035 MB
+CPU mainthread time: 35.2 ms
+
+Record Time: 32.77024 sec
+Total Reserved Memory: 6367 MB
+Total Used Memory: 7035 MB
+System Used Memory: 7035 MB
+CPU mainthread time: 35.5 ms
+
+Record Time: 33.23541 sec
+Total Reserved Memory: 6383 MB
+Total Used Memory: 7052 MB
+System Used Memory: 7052 MB
+CPU mainthread time: 464.4 ms
+
+Record Time: 33.27391 sec
+Total Reserved Memory: 6383 MB
+Total Used Memory: 7052 MB
+System Used Memory: 7052 MB
+CPU mainthread time: 35.0 ms
+
+Record Time: 33.32562 sec
+Total Reserved Memory: 6383 MB
+Total Used Memory: 7052 MB
+System Used Memory: 7052 MB
+CPU mainthread time: 38.7 ms
+
