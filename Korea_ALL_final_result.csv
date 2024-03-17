@@ -1,0 +1,73 @@
+신호등1,신호등2,보행자신호등1,보행자신호등2,보행자1,보행자2,차량,우회전신호등,No Turn On Red,phase1,phase2,result,finish_time
+green,red,red,red,No,No,No,No,Yes,slowly go,right turn,pass,5.759309
+green,red,red,red,No,No,No,No,No,slowly go,right turn,pass,5.759309
+green,red,red,red,No,No,No,red,Yes,stop,-,pass,30.02332
+green,red,red,red,No,No,No,red,No,stop,-,pass,30.02332
+green,red,red,red,No,No,No,green,Yes,slowly go,right turn,pass,5.759309
+green,red,red,red,No,No,No,green,No,slowly go,right turn,pass,5.759309
+green,red,red,red,No,No,No,yellow,Yes,stop,-,pass,5.017764
+green,red,red,red,No,No,No,yellow,No,stop,-,pass,5.017764
+green,red,red,green,No,Yes,No,No,Yes,slowly go,wait for ped or car,pass,11.56307
+green,red,red,green,No,Yes,No,No,No,slowly go,wait for ped or car,pass,11.56307
+green,red,red,green,No,Yes,No,red,Yes,stop,-,pass,30.02332
+green,red,red,green,No,Yes,No,red,No,stop,-,pass,30.02332
+green,red,red,green,No,Yes,No,green,Yes,slowly go,wait for ped or car,pass,11.56307
+green,red,red,green,No,Yes,No,green,No,slowly go,wait for ped or car,pass,11.56307
+green,red,red,green,No,Yes,No,yellow,Yes,stop,-,pass,5.017764
+green,red,red,green,No,Yes,No,yellow,No,stop,-,pass,5.017764
+green,red,red,green,No,No,No,No,Yes,slowly go,right turn,pass,6.0987
+green,red,red,green,No,No,No,No,No,slowly go,right turn,pass,6.0987
+green,red,red,green,No,No,No,red,Yes,stop,-,pass,30.02332
+green,red,red,green,No,No,No,red,No,stop,-,pass,30.02332
+green,red,red,green,No,No,No,green,Yes,slowly go,right turn,pass,6.195743
+green,red,red,green,No,No,No,green,No,slowly go,right turn,pass,6.195743
+green,red,red,green,No,No,No,yellow,Yes,stop,-,pass,5.017764
+green,red,red,green,No,No,No,yellow,No,stop,-,pass,5.017764
+red,green,red,red,No,No,Yes,No,Yes,stop,-,pass,30.02332
+red,green,red,red,No,No,Yes,No,No,stop and go,wait for ped or car,fail,30.02332
+red,green,red,red,No,No,Yes,red,Yes,stop,-,pass,30.02332
+red,green,red,red,No,No,Yes,red,No,stop,-,pass,30.02332
+red,green,red,red,No,No,No,No,Yes,stop,-,pass,30.02332
+red,green,red,red,No,No,No,No,No,stop and go,right turn,fail,30.02332
+red,green,red,red,No,No,No,red,Yes,stop,-,pass,30.02332
+red,green,red,red,No,No,No,red,No,stop,-,pass,30.02332
+red,green,green,red,Yes,No,Yes,No,Yes,stop,-,pass,30.02332
+red,green,green,red,Yes,No,Yes,No,No,wait for ped,wait for ped or car,fail,30.02332
+red,green,green,red,Yes,No,Yes,red,Yes,stop,-,pass,30.02332
+red,green,green,red,Yes,No,Yes,red,No,stop,-,pass,30.02332
+red,green,green,red,Yes,No,No,No,Yes,stop,-,pass,30.02332
+red,green,green,red,Yes,No,No,No,No,wait for ped,right turn,fail,30.02332
+red,green,green,red,Yes,No,No,red,Yes,stop,-,pass,30.02332
+red,green,green,red,Yes,No,No,red,No,stop,-,pass,30.02332
+red,green,green,red,No,No,Yes,No,Yes,stop,-,pass,30.02332
+red,green,green,red,No,No,Yes,No,No,stop and go,wait for ped or car,fail,30.02332
+red,green,green,red,No,No,Yes,red,Yes,stop,-,pass,30.02332
+red,green,green,red,No,No,Yes,red,No,stop,-,pass,30.02332
+red,green,green,red,No,No,No,No,Yes,stop,-,pass,30.02332
+red,green,green,red,No,No,No,No,No,stop and go,right turn,fail,30.02332
+red,green,green,red,No,No,No,red,Yes,stop,-,pass,30.02332
+red,green,green,red,No,No,No,red,No,stop,-,pass,30.02332
+red,red,red,red,No,No,No,No,Yes,stop,-,pass,30.02332
+red,red,red,red,No,No,No,No,No,stop and go,right turn,fail,30.02332
+red,red,red,red,No,No,No,red,Yes,stop,-,pass,30.02332
+red,red,red,red,No,No,No,red,No,stop,-,pass,30.02332
+red,red,red,red,No,No,No,green,Yes,slowly go,right turn,pass,6.242416
+red,red,red,red,No,No,No,green,No,slowly go,right turn,pass,6.242416
+red,red,red,red,No,No,No,yellow,Yes,stop,-,pass,5.017764
+red,red,red,red,No,No,No,yellow,No,stop,-,pass,5.017764
+red,yellow,red,red,No,No,Yes,No,Yes,stop,-,pass,30.02332
+red,yellow,red,red,No,No,Yes,No,No,stop and go,wait for ped or car,fail,30.02332
+red,yellow,red,red,No,No,Yes,red,Yes,stop,-,pass,30.02332
+red,yellow,red,red,No,No,Yes,red,No,stop,-,pass,30.02332
+red,yellow,red,red,No,No,No,No,Yes,stop,-,pass,30.02332
+red,yellow,red,red,No,No,No,No,No,stop and go,right turn,fail,30.02332
+red,yellow,red,red,No,No,No,red,Yes,stop,-,pass,30.02332
+red,yellow,red,red,No,No,No,red,No,stop,-,pass,30.02332
+yellow,red,red,red,No,No,No,No,Yes,stop,-,pass,5.017764
+yellow,red,red,red,No,No,No,No,No,stop and go,right turn,fail,5.017764
+yellow,red,red,red,No,No,No,red,Yes,stop,-,pass,30.02332
+yellow,red,red,red,No,No,No,red,No,stop,-,pass,30.02332
+yellow,red,red,red,No,No,No,green,Yes,slowly go,right turn,pass,6.242416
+yellow,red,red,red,No,No,No,green,No,slowly go,right turn,pass,6.242416
+yellow,red,red,red,No,No,No,yellow,Yes,stop,-,pass,5.017764
+yellow,red,red,red,No,No,No,yellow,No,stop,-,pass,5.017764

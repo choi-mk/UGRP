@@ -1,0 +1,11 @@
+?�호??,?�호??,보행?�신?�등1,보행?�신?�등2,보행??,보행??,차량,?�회?�신?�등,No Turn On Red,phase1,phase2,result,finish_time
+red,green,red,red,No,No,Yes,No,No,stop and go,wait for ped or car,fail,30.027
+red,green,red,red,No,No,No,No,No,stop and go,right turn,fail,30.027
+red,green,green,red,Yes,No,Yes,No,No,wait for ped,wait for ped or car,fail,30.027
+red,green,green,red,Yes,No,No,No,No,wait for ped,right turn,fail,30.027
+red,green,green,red,No,No,Yes,No,No,stop and go,wait for ped or car,fail,30.027
+red,green,green,red,No,No,No,No,No,stop and go,right turn,fail,30.027
+red,red,red,red,No,No,No,No,No,stop and go,right turn,fail,30.027
+red,yellow,red,red,No,No,Yes,No,No,stop and go,wait for ped or car,fail,30.027
+red,yellow,red,red,No,No,No,No,No,stop and go,right turn,fail,30.027
+yellow,red,red,red,No,No,No,No,No,stop and go,right turn,fail,5.012467
